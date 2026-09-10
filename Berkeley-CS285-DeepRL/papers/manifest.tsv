@@ -1,0 +1,151 @@
+# manifest.tsv  —  arxiv_id <TAB> subdir <TAB> filename
+# High-confidence classics (canonical IDs). Uncertain ones await agent verification.
+# --- policy gradient ---
+1506.02438	02_policy_gradient	GAE_High-Dim-Continuous-Control-Generalized-Advantage-Estimation_Schulman2015_1506.02438.pdf
+1602.01783	03_actor_critic	A3C_Asynchronous-Methods-for-Deep-RL_Mnih2016_1602.01783.pdf
+# --- value based / dqn ---
+1312.5602	04_value_based_dqn	DQN_Playing-Atari-with-Deep-RL_Mnih2013_1312.5602.pdf
+1509.06461	04_value_based_dqn	DoubleDQN_Deep-RL-with-Double-Q-learning_vanHasselt2015_1509.06461.pdf
+1511.05952	04_value_based_dqn	PER_Prioritized-Experience-Replay_Schaul2015_1511.05952.pdf
+1511.06581	04_value_based_dqn	DuelingDQN_Dueling-Network-Architectures_Wang2015_1511.06581.pdf
+1710.02298	04_value_based_dqn	Rainbow_Combining-Improvements-Deep-RL_Hessel2017_1710.02298.pdf
+1707.06887	04_value_based_dqn	C51_Distributional-Perspective-on-RL_Bellemare2017_1707.06887.pdf
+1802.09477	03_actor_critic	TD3_Addressing-Function-Approximation-Error_Fujimoto2018_1802.09477.pdf
+1509.02971	03_actor_critic	DDPG_Continuous-Control-Deep-RL_Lillicrap2015_1509.02971.pdf
+1802.01561	03_actor_critic	IMPALA_Scalable-Distributed-Deep-RL_Espeholt2018_1802.01561.pdf
+# --- trust region / ppo ---
+1502.05477	06_trust_region_ppo	TRPO_Trust-Region-Policy-Optimization_Schulman2015_1502.05477.pdf
+1707.06347	06_trust_region_ppo	PPO_Proximal-Policy-Optimization_Schulman2017_1707.06347.pdf
+# --- max entropy / sac ---
+1801.01290	05_max_entropy_sac	SAC_Soft-Actor-Critic_Haarnoja2018_1801.01290.pdf
+1812.05905	05_max_entropy_sac	SAC-Apps_Soft-Actor-Critic-Algorithms-and-Applications_Haarnoja2018_1812.05905.pdf
+1702.08165	05_max_entropy_sac	SoftQ_RL-with-Deep-Energy-Based-Policies_Haarnoja2017_1702.08165.pdf
+# --- model based / world models ---
+1708.02596	07_model_based	NN-Dynamics-MBRL-with-Model-Free-Finetuning_Nagabandi2017_1708.02596.pdf
+1906.08253	07_model_based	MBPO_When-to-Trust-Your-Model_Janner2019_1906.08253.pdf
+1805.12114	07_model_based	PETS_Deep-RL-in-a-Handful-of-Trials_Chua2018_1805.12114.pdf
+1912.01603	15_world_models_planning	Dreamer_Dream-to-Control_Hafner2019_1912.01603.pdf
+1811.04551	15_world_models_planning	PlaNet_Learning-Latent-Dynamics-for-Planning-from-Pixels_Hafner2018_1811.04551.pdf
+1803.10122	15_world_models_planning	WorldModels_Ha-Schmidhuber2018_1803.10122.pdf
+# --- offline rl ---
+1812.02900	08_offline_rl	BCQ_Off-Policy-Deep-RL-without-Exploration_Fujimoto2018_1812.02900.pdf
+1906.00949	08_offline_rl	BEAR_Stabilizing-Off-Policy-Q-Learning_Kumar2019_1906.00949.pdf
+2006.04779	08_offline_rl	CQL_Conservative-Q-Learning_Kumar2020_2006.04779.pdf
+2005.01643	08_offline_rl	OfflineRL-Tutorial-Review-Perspectives_Levine2020_2005.01643.pdf
+2106.01345	08_offline_rl	DecisionTransformer_RL-via-Sequence-Modeling_Chen2021_2106.01345.pdf
+2004.07219	08_offline_rl	D4RL_Datasets-for-Deep-Data-Driven-RL_Fu2020_2004.07219.pdf
+# --- exploration ---
+1606.01868	09_exploration	CTS_Unifying-Count-Based-Exploration-Intrinsic-Motivation_Bellemare2016_1606.01868.pdf
+1705.05363	09_exploration	ICM_Curiosity-driven-Exploration_Pathak2017_1705.05363.pdf
+1810.12894	09_exploration	RND_Exploration-by-Random-Network-Distillation_Burda2018_1810.12894.pdf
+1605.09674	09_exploration	VIME_Variational-Information-Maximizing-Exploration_Houthooft2016_1605.09674.pdf
+# --- multitask / meta / hierarchical ---
+1703.03400	10_multitask_meta_hierarchical	MAML_Model-Agnostic-Meta-Learning_Finn2017_1703.03400.pdf
+1611.02779	10_multitask_meta_hierarchical	RL2_Fast-RL-via-Slow-RL_Duan2016_1611.02779.pdf
+1609.05140	10_multitask_meta_hierarchical	OptionCritic_The-Option-Critic-Architecture_Bacon2016_1609.05140.pdf
+1703.01161	10_multitask_meta_hierarchical	FeUdalNetworks_Hierarchical-RL_Vezhnevets2017_1703.01161.pdf
+1805.08296	10_multitask_meta_hierarchical	HIRO_Data-Efficient-Hierarchical-RL_Nachum2018_1805.08296.pdf
+1802.06070	10_multitask_meta_hierarchical	DIAYN_Diversity-is-All-You-Need_Eysenbach2018_1802.06070.pdf
+1707.01495	10_multitask_meta_hierarchical	HER_Hindsight-Experience-Replay_Andrychowicz2017_1707.01495.pdf
+# --- imitation / inverse rl ---
+1011.0686	01_imitation_learning	DAgger_Reduction-of-Imitation-Learning_Ross2011_1011.0686.pdf
+1606.03476	01_imitation_learning	GAIL_Generative-Adversarial-Imitation-Learning_Ho-Ermon2016_1606.03476.pdf
+1603.00448	01_imitation_learning	GuidedCostLearning_Deep-Inverse-Optimal-Control_Finn2016_1603.00448.pdf
+# --- rlhf / llm ---
+1706.03741	12_rlhf_llm	DeepRLHF_Deep-RL-from-Human-Preferences_Christiano2017_1706.03741.pdf
+2203.02155	12_rlhf_llm	InstructGPT_Training-LMs-to-follow-instructions-with-HF_Ouyang2022_2203.02155.pdf
+2009.01325	12_rlhf_llm	LearnToSummarize_from-Human-Feedback_Stiennon2020_2009.01325.pdf
+2305.18290	12_rlhf_llm	DPO_Direct-Preference-Optimization_Rafailov2023_2305.18290.pdf
+1909.08593	12_rlhf_llm	FineTuneLM_from-Human-Preferences_Ziegler2019_1909.08593.pdf
+2212.08073	12_rlhf_llm	ConstitutionalAI_Harmlessness-from-AI-Feedback_Bai2022_2212.08073.pdf
+# --- games ---
+1712.01815	13_games_alphago	AlphaZero_Chess-Shogi-Go-through-Self-Play_Silver2017_1712.01815.pdf
+1911.08265	13_games_alphago	MuZero_Mastering-Atari-Go-Chess-Shogi_Schrittwieser2019_1911.08265.pdf
+1912.06680	13_games_alphago	OpenAIFive_Dota2-with-Large-Scale-Deep-RL_OpenAI2019_1912.06680.pdf
+# --- robotics ---
+1504.00702	14_robotics_continuous_control	GPS_End-to-End-Training-of-Deep-Visuomotor-Policies_Levine2015_1504.00702.pdf
+1806.10293	14_robotics_continuous_control	QT-Opt_Scalable-Deep-RL-Vision-Based-Manipulation_Kalashnikov2018_1806.10293.pdf
+1910.07113	14_robotics_continuous_control	RubiksCube_Solving-with-a-Robot-Hand_OpenAI2019_1910.07113.pdf
+# ================= VERIFIED EXPANSION (round 1) =================
+# --- trust region / ppo (ME-TRPO corrected id; DPPO) ---
+1802.10592	06_trust_region_ppo	ME-TRPO_Model-Ensemble-Trust-Region-Policy-Optimization_Kurutach2018_1802.10592.pdf
+1707.02286	06_trust_region_ppo	DPPO_Emergence-of-Locomotion-Behaviours-in-Rich-Environments_Heess2017_1707.02286.pdf
+# --- actor critic / policy gradient (off-policy) ---
+1611.01224	03_actor_critic	ACER_Sample-Efficient-Actor-Critic-with-Experience-Replay_Wang2016_1611.01224.pdf
+1611.02247	02_policy_gradient	Q-Prop_Sample-Efficient-Policy-Gradient-Off-Policy-Critic_Gu2016_1611.02247.pdf
+# --- offline rl (BRAC, Trajectory Transformer, IQL) ---
+1911.11361	08_offline_rl	BRAC_Behavior-Regularized-Offline-RL_Wu2019_1911.11361.pdf
+2106.02039	08_offline_rl	TrajectoryTransformer_Offline-RL-as-One-Big-Sequence-Modeling_Janner2021_2106.02039.pdf
+2110.06169	08_offline_rl	IQL_Offline-RL-with-Implicit-Q-Learning_Kostrikov2021_2110.06169.pdf
+# --- exploration (#Exploration hashing) ---
+1611.04717	09_exploration	HashCount_Study-of-Count-Based-Exploration-for-Deep-RL_Tang2016_1611.04717.pdf
+# --- theory / foundations (Thompson Sampling tutorial) ---
+1707.02038	11_rl_theory_foundations	ThompsonSampling-Tutorial_Russo2017_1707.02038.pdf
+# --- robotics (hand-eye grasping) ---
+1603.02199	14_robotics_continuous_control	HandEye_Learning-Hand-Eye-Coordination-for-Robotic-Grasping_Levine2016_1603.02199.pdf
+# --- model based / world models (VIN, Recurrent WM, DreamerV2, DreamerV3) ---
+1602.02867	07_model_based	VIN_Value-Iteration-Networks_Tamar2016_1602.02867.pdf
+1809.01999	15_world_models_planning	RecurrentWorldModels_Ha-Schmidhuber2018_1809.01999.pdf
+2010.02193	15_world_models_planning	DreamerV2_Mastering-Atari-with-Discrete-World-Models_Hafner2020_2010.02193.pdf
+2301.04104	15_world_models_planning	DreamerV3_Mastering-Diverse-Domains_Hafner2023_2301.04104.pdf
+# ================= VERIFIED EXPANSION (round 2) =================
+# --- surveys / textbooks / empirical-methodology / benchmarks ---
+1708.05866	00_surveys_textbooks	Survey_A-Brief-Survey-of-Deep-RL_Arulkumaran2017_1708.05866.pdf
+1709.06560	00_surveys_textbooks	DeepRLThatMatters_Reproducibility_Henderson2017_1709.06560.pdf
+2006.05990	00_surveys_textbooks	WhatMattersOnPolicy_Large-Scale-Empirical-Study_Andrychowicz2020_2006.05990.pdf
+2108.13264	00_surveys_textbooks	StatisticalPrecipice_Deep-RL-at-the-Edge_Agarwal2021_2108.13264.pdf
+1811.12560	00_surveys_textbooks	IntroToDeepRL_Monograph_Francois-Lavet2018_1811.12560.pdf
+1812.02341	00_surveys_textbooks	CoinRun_Quantifying-Generalization-in-RL_Cobbe2018_1812.02341.pdf
+1912.01588	00_surveys_textbooks	Procgen_Leveraging-Procedural-Generation-to-Benchmark-RL_Cobbe2019_1912.01588.pdf
+# --- trust region / ppo (impl-matters, ACKTR, PPG) ---
+2005.12729	06_trust_region_ppo	ImplementationMatters_PPO-TRPO-Case-Study_Engstrom2020_2005.12729.pdf
+1708.05144	06_trust_region_ppo	ACKTR_Scalable-Trust-Region-Kronecker-Factored_Wu2017_1708.05144.pdf
+2009.04416	06_trust_region_ppo	PPG_Phasic-Policy-Gradient_Cobbe2020_2009.04416.pdf
+# --- multitask / meta / hierarchical (round 2) ---
+1903.08254	10_multitask_meta_hierarchical	PEARL_Efficient-Off-Policy-Meta-RL-Probabilistic-Context_Rakelly2019_1903.08254.pdf
+1810.06784	10_multitask_meta_hierarchical	ProMP_Proximal-Meta-Policy-Search_Rothfuss2018_1810.06784.pdf
+1910.10897	10_multitask_meta_hierarchical	MetaWorld_Benchmark-Multi-Task-and-Meta-RL_Yu2019_1910.10897.pdf
+1707.04175	10_multitask_meta_hierarchical	Distral_Robust-Multitask-RL_Teh2017_1707.04175.pdf
+1707.03141	10_multitask_meta_hierarchical	SNAIL_Simple-Neural-Attentive-Meta-Learner_Mishra2017_1707.03141.pdf
+1803.02999	10_multitask_meta_hierarchical	Reptile_On-First-Order-Meta-Learning_Nichol2018_1803.02999.pdf
+1704.03012	10_multitask_meta_hierarchical	SNN-HRL_Stochastic-Neural-Networks-for-Hierarchical-RL_Florensa2017_1704.03012.pdf
+1805.09801	10_multitask_meta_hierarchical	MetaGradientRL_Meta-Gradient-Reinforcement-Learning_Xu2018_1805.09801.pdf
+1611.05763	10_multitask_meta_hierarchical	LearningToRL_Learning-to-Reinforcement-Learn_Wang2016_1611.05763.pdf
+1612.00796	10_multitask_meta_hierarchical	EWC_Overcoming-Catastrophic-Forgetting_Kirkpatrick2016_1612.00796.pdf
+# --- model based (round 2) ---
+1707.06203	07_model_based	I2A_Imagination-Augmented-Agents_Racaniere2017_1707.06203.pdf
+1707.03497	07_model_based	VPN_Value-Prediction-Network_Oh2017_1707.03497.pdf
+1907.00953	07_model_based	SLAC_Stochastic-Latent-Actor-Critic_Lee2019_1907.00953.pdf
+2203.04955	07_model_based	TD-MPC_Temporal-Difference-Learning-for-MPC_Hansen2022_2203.04955.pdf
+1903.00374	07_model_based	SimPLe_Model-Based-RL-for-Atari_Kaiser2019_1903.00374.pdf
+1807.01675	07_model_based	STEVE_Stochastic-Ensemble-Value-Expansion_Buckman2018_1807.01675.pdf
+1803.00101	07_model_based	MVE_Model-Based-Value-Estimation_Feinberg2018_1803.00101.pdf
+1909.11652	07_model_based	PDDM_Deep-Dynamics-Models-Dexterous-Manipulation_Nagabandi2019_1909.11652.pdf
+# ================= VERIFIED EXPANSION (round 3) =================
+# --- value based / distributional / distributed / off-policy (round 3) ---
+1706.10295	04_value_based_dqn	NoisyNets_Noisy-Networks-for-Exploration_Fortunato2017_1706.10295.pdf
+1710.10044	04_value_based_dqn	QR-DQN_Distributional-RL-with-Quantile-Regression_Dabney2017_1710.10044.pdf
+1806.06923	04_value_based_dqn	IQN_Implicit-Quantile-Networks-for-Distributional-RL_Dabney2018_1806.06923.pdf
+1803.00933	04_value_based_dqn	ApeX_Distributed-Prioritized-Experience-Replay_Horgan2018_1803.00933.pdf
+1606.02647	04_value_based_dqn	Retrace_Safe-and-Efficient-Off-Policy-RL_Munos2016_1606.02647.pdf
+2003.13350	04_value_based_dqn	Agent57_Outperforming-the-Atari-Human-Benchmark_Badia2020_2003.13350.pdf
+2002.06038	04_value_based_dqn	NGU_Never-Give-Up-Directed-Exploration_Badia2020_2002.06038.pdf
+1602.04621	04_value_based_dqn	BootstrappedDQN_Deep-Exploration-via-Bootstrapped-DQN_Osband2016_1602.04621.pdf
+1603.00748	03_actor_critic	NAF_Continuous-Deep-Q-Learning-with-Model-based-Acceleration_Gu2016_1603.00748.pdf
+1611.01626	03_actor_critic	PGQL_Combining-Policy-Gradient-and-Q-Learning_ODonoghue2016_1611.01626.pdf
+# --- imitation / inverse rl (round 3) ---
+1710.11248	01_imitation_learning	AIRL_Learning-Robust-Rewards-with-Adversarial-IRL_Fu2017_1710.11248.pdf
+1905.11108	01_imitation_learning	SQIL_Imitation-Learning-via-RL-with-Sparse-Rewards_Reddy2019_1905.11108.pdf
+1805.01954	01_imitation_learning	BCO_Behavioral-Cloning-from-Observation_Torabi2018_1805.01954.pdf
+1703.07326	01_imitation_learning	OneShotIL_One-Shot-Imitation-Learning_Duan2017_1703.07326.pdf
+# --- rlhf / llm (round 3) ---
+2210.10760	12_rlhf_llm	RewardOveroptimization_Scaling-Laws-for-Reward-Model-Overoptimization_Gao2022_2210.10760.pdf
+2309.00267	12_rlhf_llm	RLAIF_vs-RLHF-Scaling-RL-from-Human-Feedback-with-AI-Feedback_Lee2023_2309.00267.pdf
+2307.04964	12_rlhf_llm	SecretsOfRLHF_Part-I-PPO_Zheng2023_2307.04964.pdf
+2307.09288	12_rlhf_llm	Llama2_Open-Foundation-and-Fine-Tuned-Chat-Models_Touvron2023_2307.09288.pdf
+# --- games (round 3) ---
+2112.03178	13_games_alphago	PlayerOfGames_Unified-Learning-Perfect-Imperfect-Info-Games_Schmid2021_2112.03178.pdf
+# --- robotics / sim2real (round 3) ---
+1703.06907	14_robotics_continuous_control	DomainRandomization_Transferring-DNNs-Sim-to-Real_Tobin2017_1703.06907.pdf
+1808.00177	14_robotics_continuous_control	Dactyl_Learning-Dexterous-In-Hand-Manipulation_OpenAI2018_1808.00177.pdf
+2206.14176	14_robotics_continuous_control	DayDreamer_World-Models-for-Physical-Robot-Learning_Wu2022_2206.14176.pdf
