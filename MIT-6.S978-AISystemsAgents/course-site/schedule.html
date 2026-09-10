@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Schedule - 6.S978</title>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-1E71MEZ782"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-1E71MEZ782');
+  </script>
+  <link rel="icon" href="assets/mit-logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400..700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="course-header container">
+    <div class="identity">
+      <a class="mit" href="index.html" aria-label="6.S978 home">
+        <img src="assets/mit-logo.svg" alt="MIT">
+      </a>
+      <div class="course-heading">
+        <div class="course-title">AI Engineering. Fall 2026.</div>
+        <a class="formal-title" href="index.html">6.S978 Engineering AI Systems and Agents</a>
+        <p class="term">Wednesdays 11:00am–1:00pm in 32-144</p>
+      </div>
+    </div>
+    <nav class="course-nav" aria-label="Course navigation"><a href="index.html">Home</a><a href="schedule.html" aria-current="page">Schedule</a><a href="work.html">Assignments</a><a href="policies.html">Policies</a></nav>
+    <hr class="header-rule">
+  </header>
+
+  <main class="container">
+    <h1 class="page-title">Schedule<button type="button" class="provisional page-note" data-note="Preliminary: please check back on Monday, September 7" aria-label="Preliminary: please check back on Monday, September 7">*</button></h1>
+    <p>We will add readings and lecture materials before each meeting.</p>
+    <table>
+    <thead><tr><th class="date">Date</th><th>Topic</th></tr></thead>
+    <tbody>
+    <tr class="week"><td colspan="2">From foundation models to AI systems</td></tr>
+    <tr><td>Sep 9<small class="lecture-number">Lecture 1</small></td><td class="topic"><strong>Language Models as a Computational Primitive</strong><small>For the first time in computing, it&#39;s possible to embed arbitrary &quot;intelligent&quot; functions inside software programs, by providing natural language specifications to pre-trained LLMs. We will study how LLMs are &quot;grown&quot; rather than engineered, how engineers should model their behavior, and why it thereby remains difficult to build reliable, efficient, and maintainable software systems around them.</small></td></tr>
+    <tr><td>Sep 16<small class="lecture-number">Lecture 2</small></td><td class="topic"><strong>Requirements for Situated AI Systems</strong><small>Foundation models supply broad capabilities, but what a specific AI system or agent should do depends on its downstream application and context. Engineers must elicit this context, some of which can only be specified in natural language. Other parts of the system&#39;s behavior must be expressed as code or learned gradually from feedback on specific decisions.</small></td></tr>
+    <tr class="week"><td colspan="2">AI programming and agents</td></tr>
+    <tr><td>Sep 23<small class="lecture-number">Lecture 3</small></td><td class="topic"><strong>Declarative AI Programming</strong><small>A prompt to an LLM is too narrow a programming model for many AI systems. We will seek ways to express AI programs with declarative and typed contracts instead. Programs written this way can be automatically optimized from feedback or evaluations and stay more maintainable and portable as models change.</small></td></tr>
+    <tr><td>Sep 30<small class="lecture-number">Lecture 4</small></td><td class="topic"><strong>Agent Design</strong><small>We will build on the previous lecture and dive more deeply into agent loops, a subset of AI programs in which the program gives the model consistent control but still decides what it sees and what it is allowed to do at each step. We will consider security and safety of AI agents, especially to threats such as prompt injection.</small></td></tr>
+    <tr class="week"><td colspan="2">Evaluation and evidence</td></tr>
+    <tr><td>Oct 7<small class="lecture-number">Lecture 5</small></td><td class="topic"><strong>Evaluating AI Systems</strong><small>Having built many systems and agents by this point, how do we know whether they work? We will start from qualitative coding and then discuss when a formal eval is required. We will also consider the range of useful evals, some of which consider average behavior like ML benchmarks whereas others represent something closer to software assertions. We will cover also the minimal indispensable statistics for useful evals.</small></td></tr>
+    <tr><td>Oct 14<small class="lecture-number">Lecture 6</small></td><td class="topic"><strong>Modern Information Retrieval</strong><small>AI systems often need to search millions of documents. We will consider the difficult trade-offs in this problem and discuss the retrieval paradigms developed to tackle it (lexical search, cross-encoders, single-vector retrieval, and late interaction). We will then study retrieval problems that remain difficult even in 2026.</small></td></tr>
+    <tr><td>Oct 21<small class="lecture-number">Lecture 7</small></td><td class="topic"><strong>Reasoning over Massive Contexts</strong><small>Beyond search, some tasks require our models to deeply reason about evidence spread across an entire collection of documents. We will study the trade-offs this presents and the different emerging paradigms around how agents navigate this problem.</small></td></tr>
+    <tr class="week"><td colspan="2">Learning from evidence</td></tr>
+    <tr><td>Oct 28<small class="lecture-number">Lecture 8</small></td><td class="topic"><strong>Downstream Learning for AI Systems</strong><small>Engineers often improve an AI system by hand-crafting better prompts and programs. We will study learning algorithms that search over instructions, demonstrations, and the program structure itself from downstream rewards and even from qualitative feedback. We will consider how such algorithms respect the declarative programming model from earlier lectures.</small></td></tr>
+    <tr><td>Nov 4<small class="lecture-number">Lecture 9</small></td><td class="topic"><strong>Downstream Learning in Weights</strong><small>There are cases where a situated AI system strikes its best trade-offs only by updating the model weights from downstream feedback. We will compare methods for supervised fine-tuning, reinforcement learning, and distillation and develop intuition for cases where the weights are the right parameters to learn vs. the program around the model.</small></td></tr>
+    <tr class="week"><td colspan="2">Later topics and projects</td></tr>
+    <tr><td>Nov 11</td><td class="topic"><strong>No class</strong><small>Veterans Day.</small></td></tr>
+    <tr><td>Nov 18<small class="lecture-number">Lecture 10</small></td><td class="topic"><strong>Semantic Data Systems</strong><small>TBD.</small></td></tr>
+    <tr><td>Nov 25</td><td class="topic"><strong>Project Studio</strong><small>We will test the claims, evaluations, and operating points behind the course projects before the final experiments.</small></td></tr>
+    <tr><td>Dec 2<small class="lecture-number">Lecture 11</small></td><td class="topic"><strong>Continual Learning</strong><small>TBD.</small></td></tr>
+    <tr><td>Dec 9</td><td class="topic"><strong>Project Presentations and Synthesis</strong><small>TBD.</small></td></tr>
+    </tbody>
+    </table>
+  </main>
+
+  <footer class="container"><p>6.S978 Engineering AI Systems and Agents ("AI Engineering"), Fall 2026</p></footer>
+</body>
+</html>
