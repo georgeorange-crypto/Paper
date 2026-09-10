@@ -1,0 +1,41 @@
+# ==== Large media excluded (over GitHub 100MB hard limit) ====
+NYU-DSGA1008-DeepLearning/slides/06_convnets_practice__videos/06_convnets_practice_video1.mp4
+
+# ==== Video files (offloaded to D:\V\videos per project convention) ====
+*.mp4
+*.mkv
+*.webm
+*.mov
+*.avi
+*.m4a
+*.part
+*.ytdl
+
+# ==== Python caches ====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# ==== Virtual envs ====
+.venv/
+venv/
+env/
+
+# ==== Tooling / local state ====
+.claude/
+*.lock
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==== Download logs & temp artifacts ====
+*.log
+*.tmp
+yt-cookies.txt
+cookies.txt
+
+# ==== OS / editor ====
+.vscode/
+.idea/
