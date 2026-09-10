@@ -1,0 +1,18 @@
+# courses_manifest_round2_ukeu_rl.tsv  —  URL <TAB> subdir <TAB> filename
+# ROUND 2 (3-channel re-check): UK/Europe — GENUINE RL course material only.
+# All URLs HEAD-verified 200 + %PDF by discovery agent.
+#
+# ---- EPFL EE-568 Reinforcement Learning (Volkan Cevher). ----
+#      Full slide set mirrored in student repo victor-pcll/EE568-Reinforcement-Learning/slides/.
+https://raw.githubusercontent.com/victor-pcll/EE568-Reinforcement-Learning/main/slides/lecture%201%20DP%20I.pdf	epfl_ee568	epfl_ee568_01_dp1.pdf
+https://raw.githubusercontent.com/victor-pcll/EE568-Reinforcement-Learning/main/slides/lecture%202%20DP%20II.pdf	epfl_ee568	epfl_ee568_02_dp2.pdf
+https://raw.githubusercontent.com/victor-pcll/EE568-Reinforcement-Learning/main/slides/lecture%203%20LP.pdf	epfl_ee568	epfl_ee568_03_lp.pdf
+https://raw.githubusercontent.com/victor-pcll/EE568-Reinforcement-Learning/main/slides/lecture%204%20PG%20I.pdf	epfl_ee568	epfl_ee568_04_pg1.pdf
+https://raw.githubusercontent.com/victor-pcll/EE568-Reinforcement-Learning/main/slides/lecture%205%20PG%20II.pdf	epfl_ee568	epfl_ee568_05_pg2.pdf
+https://raw.githubusercontent.com/victor-pcll/EE568-Reinforcement-Learning/main/slides/lecture%206%20Deep.pdf	epfl_ee568	epfl_ee568_06_deep.pdf
+https://raw.githubusercontent.com/victor-pcll/EE568-Reinforcement-Learning/main/slides/lecture%207%20IL.pdf	epfl_ee568	epfl_ee568_07_il.pdf
+https://raw.githubusercontent.com/victor-pcll/EE568-Reinforcement-Learning/main/slides/lecture%208%20RLHF.pdf	epfl_ee568	epfl_ee568_08_rlhf.pdf
+https://raw.githubusercontent.com/victor-pcll/EE568-Reinforcement-Learning/main/slides/Q-learning.pdf	epfl_ee568	epfl_ee568_09_qlearning.pdf
+#
+# ---- Imperial College — Intro to Deep RL (Pierre Richemond). ----
+https://raw.githubusercontent.com/prichemond/introdeeprl/master/introduction-deep-reinforcement.pdf	imperial_rl	imperial_intro_deeprl.pdf

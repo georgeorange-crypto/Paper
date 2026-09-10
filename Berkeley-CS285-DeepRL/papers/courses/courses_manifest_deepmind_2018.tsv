@@ -1,0 +1,27 @@
+# courses_manifest_deepmind_2018.tsv  —  URL <TAB> subdir <TAB> filename
+# NEW COURSE: UCL x DeepMind — Advanced Deep Learning & Reinforcement Learning (2018).
+# DeepMind's original bucket for the 2018 course was retired (404 on all probed paths);
+# recovered from the public GitHub archive gouxiangchen/UCL_Advanced_Deep_Learning_and_
+# Reinforcement_Learning (verbatim course slide PDFs). raw.githubusercontent verified 200.
+# Full "DL + RL complete system": 10 Deep Learning decks + 8 Reinforcement Learning decks.
+#
+# ---- Deep Learning track (10) ----
+https://raw.githubusercontent.com/gouxiangchen/UCL_Advanced_Deep_Learning_and_Reinforcement_Learning/master/lecture%20slides/dl_01_introduction.pdf	deepmind_adlrl_2018	dl_01_introduction.pdf
+https://raw.githubusercontent.com/gouxiangchen/UCL_Advanced_Deep_Learning_and_Reinforcement_Learning/master/lecture%20slides/dl_02_tensorflow.pdf	deepmind_adlrl_2018	dl_02_tensorflow.pdf
+https://raw.githubusercontent.com/gouxiangchen/UCL_Advanced_Deep_Learning_and_Reinforcement_Learning/master/lecture%20slides/dl_03_backprop.pdf	deepmind_adlrl_2018	dl_03_backprop.pdf
+https://raw.githubusercontent.com/gouxiangchen/UCL_Advanced_Deep_Learning_and_Reinforcement_Learning/master/lecture%20slides/dl_04_cnn.pdf	deepmind_adlrl_2018	dl_04_cnn.pdf
+https://raw.githubusercontent.com/gouxiangchen/UCL_Advanced_Deep_Learning_and_Reinforcement_Learning/master/lecture%20slides/dl_05_rnn.pdf	deepmind_adlrl_2018	dl_05_rnn.pdf
+https://raw.githubusercontent.com/gouxiangchen/UCL_Advanced_Deep_Learning_and_Reinforcement_Learning/master/lecture%20slides/dl_06_end_to_end_learning.pdf	deepmind_adlrl_2018	dl_06_end_to_end_learning.pdf
+https://raw.githubusercontent.com/gouxiangchen/UCL_Advanced_Deep_Learning_and_Reinforcement_Learning/master/lecture%20slides/dl_07_optimization.pdf	deepmind_adlrl_2018	dl_07_optimization.pdf
+https://raw.githubusercontent.com/gouxiangchen/UCL_Advanced_Deep_Learning_and_Reinforcement_Learning/master/lecture%20slides/dl_08_attention_and_memory.pdf	deepmind_adlrl_2018	dl_08_attention_and_memory.pdf
+https://raw.githubusercontent.com/gouxiangchen/UCL_Advanced_Deep_Learning_and_Reinforcement_Learning/master/lecture%20slides/dl_09_nlp.pdf	deepmind_adlrl_2018	dl_09_nlp.pdf
+https://raw.githubusercontent.com/gouxiangchen/UCL_Advanced_Deep_Learning_and_Reinforcement_Learning/master/lecture%20slides/dl_10_unsupervised_learning_generative_models.pdf	deepmind_adlrl_2018	dl_10_unsupervised_generative_models.pdf
+# ---- Reinforcement Learning track (8) ----
+https://raw.githubusercontent.com/gouxiangchen/UCL_Advanced_Deep_Learning_and_Reinforcement_Learning/master/lecture%20slides/rl_01_introduction.pdf	deepmind_adlrl_2018	rl_01_introduction.pdf
+https://raw.githubusercontent.com/gouxiangchen/UCL_Advanced_Deep_Learning_and_Reinforcement_Learning/master/lecture%20slides/rl_02_exploration.pdf	deepmind_adlrl_2018	rl_02_exploration.pdf
+https://raw.githubusercontent.com/gouxiangchen/UCL_Advanced_Deep_Learning_and_Reinforcement_Learning/master/lecture%20slides/rl_03_markov_decision_processes.pdf	deepmind_adlrl_2018	rl_03_markov_decision_processes.pdf
+https://raw.githubusercontent.com/gouxiangchen/UCL_Advanced_Deep_Learning_and_Reinforcement_Learning/master/lecture%20slides/rl_04_model_free.pdf	deepmind_adlrl_2018	rl_04_model_free.pdf
+https://raw.githubusercontent.com/gouxiangchen/UCL_Advanced_Deep_Learning_and_Reinforcement_Learning/master/lecture%20slides/rl_05_func_approx.pdf	deepmind_adlrl_2018	rl_05_func_approx.pdf
+https://raw.githubusercontent.com/gouxiangchen/UCL_Advanced_Deep_Learning_and_Reinforcement_Learning/master/lecture%20slides/rl_06_policy_gradients.pdf	deepmind_adlrl_2018	rl_06_policy_gradients.pdf
+https://raw.githubusercontent.com/gouxiangchen/UCL_Advanced_Deep_Learning_and_Reinforcement_Learning/master/lecture%20slides/rl_07_planning_and_models.pdf	deepmind_adlrl_2018	rl_07_planning_and_models.pdf
+https://raw.githubusercontent.com/gouxiangchen/UCL_Advanced_Deep_Learning_and_Reinforcement_Learning/master/lecture%20slides/rl_08_advanced_topics.pdf	deepmind_adlrl_2018	rl_08_advanced_topics.pdf

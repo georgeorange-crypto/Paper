@@ -1,0 +1,170 @@
+# courses_manifest_canada.tsv  —  URL <TAB> subdir <TAB> filename
+# BATCH: Canada — Alberta (Martha White), Waterloo CS885 (spring18 full set),
+#        Toronto IntroRL (Farahmand), UBC CPSC533V, UMass 687
+# (McGill COMP579 + UdeM IFT6162 = NO public materials, documented as login-walled)
+#
+# ---- U Alberta — RL course (Martha White; CMPUT365 / Coursera RL Spec companion) ----
+https://marthawhite.github.io/rlcourse/lectures/Lec1-Introduction.pdf	alberta_rlcourse	Lec01-Introduction.pdf
+https://marthawhite.github.io/rlcourse/lectures/Lec2-StatisticsBackground.pdf	alberta_rlcourse	Lec02-StatisticsBackground.pdf
+https://marthawhite.github.io/rlcourse/lectures/Lec2b-StatisticsBackground.pdf	alberta_rlcourse	Lec02b-StatisticsBackground.pdf
+https://marthawhite.github.io/rlcourse/lectures/Lec3-C1M1-Review.pdf	alberta_rlcourse	Lec03-C1M1-Review.pdf
+https://marthawhite.github.io/rlcourse/lectures/Lec4-C1M2-Review.pdf	alberta_rlcourse	Lec04-C1M2-Review.pdf
+https://marthawhite.github.io/rlcourse/lectures/Lec5-C1M2-Worksheet.pdf	alberta_rlcourse	Lec05-C1M2-Worksheet.pdf
+https://marthawhite.github.io/rlcourse/lectures/Lec6-C1M3-Review.pdf	alberta_rlcourse	Lec06-C1M3-Review.pdf
+https://marthawhite.github.io/rlcourse/lectures/Lec7-C1M3-Worksheet.pdf	alberta_rlcourse	Lec07-C1M3-Worksheet.pdf
+https://marthawhite.github.io/rlcourse/lectures/Lec8-C1M4-Review.pdf	alberta_rlcourse	Lec08-C1M4-Review.pdf
+https://marthawhite.github.io/rlcourse/lectures/Lec9-C2M1-Review.pdf	alberta_rlcourse	Lec09-C2M1-Review.pdf
+https://marthawhite.github.io/rlcourse/lectures/Lec10-C2M2-Review.pdf	alberta_rlcourse	Lec10-C2M2-Review.pdf
+https://marthawhite.github.io/rlcourse/lectures/Lec11-C2M3-Review.pdf	alberta_rlcourse	Lec11-C2M3-Review.pdf
+https://marthawhite.github.io/rlcourse/lectures/Lec12-C2M4-Review.pdf	alberta_rlcourse	Lec12-C2M4-Review.pdf
+https://marthawhite.github.io/rlcourse/lectures/Lec13-C3M1-Review.pdf	alberta_rlcourse	Lec13-C3M1-Review.pdf
+https://marthawhite.github.io/rlcourse/lectures/Lec14-Midterm-Review.pdf	alberta_rlcourse	Lec14-Midterm-Review.pdf
+https://marthawhite.github.io/rlcourse/lectures/Lec15-C3M2-Review.pdf	alberta_rlcourse	Lec15-C3M2-Review.pdf
+https://marthawhite.github.io/rlcourse/lectures/Lec16-C3M3-Review.pdf	alberta_rlcourse	Lec16-C3M3-Review.pdf
+https://marthawhite.github.io/rlcourse/lectures/Lec17-Final-Review.pdf	alberta_rlcourse	Lec17-Final-Review.pdf
+https://marthawhite.github.io/rlcourse/docs/syllabus.pdf	alberta_rlcourse	syllabus.pdf
+#
+# ---- U Waterloo — CS885 Reinforcement Learning (Poupart, Spring 2018 = fullest set) ----
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture1a.pdf	waterloo_cs885	cs885-lecture01a.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture1b.pdf	waterloo_cs885	cs885-lecture01b.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture2a.pdf	waterloo_cs885	cs885-lecture02a.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture2b.pdf	waterloo_cs885	cs885-lecture02b.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture3a.pdf	waterloo_cs885	cs885-lecture03a.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture3b.pdf	waterloo_cs885	cs885-lecture03b.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture4a.pdf	waterloo_cs885	cs885-lecture04a.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture4b.pdf	waterloo_cs885	cs885-lecture04b.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture5.pdf	waterloo_cs885	cs885-lecture05.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture6a.pdf	waterloo_cs885	cs885-lecture06a.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture6b.pdf	waterloo_cs885	cs885-lecture06b.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture7a.pdf	waterloo_cs885	cs885-lecture07a.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture7b.pdf	waterloo_cs885	cs885-lecture07b.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture8a.pdf	waterloo_cs885	cs885-lecture08a.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture8b.pdf	waterloo_cs885	cs885-lecture08b.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture9.pdf	waterloo_cs885	cs885-lecture09.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture10.pdf	waterloo_cs885	cs885-lecture10.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture11a.pdf	waterloo_cs885	cs885-lecture11a.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture11b.pdf	waterloo_cs885	cs885-lecture11b.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture12.pdf	waterloo_cs885	cs885-lecture12.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture13a.pdf	waterloo_cs885	cs885-lecture13a.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture13b.pdf	waterloo_cs885	cs885-lecture13b.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture13c.pdf	waterloo_cs885	cs885-lecture13c.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture14a.pdf	waterloo_cs885	cs885-lecture14a.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture14b.pdf	waterloo_cs885	cs885-lecture14b.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture14c.pdf	waterloo_cs885	cs885-lecture14c.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture15a.pdf	waterloo_cs885	cs885-lecture15a.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture15b.pdf	waterloo_cs885	cs885-lecture15b.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture15c.pdf	waterloo_cs885	cs885-lecture15c.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture16a.pdf	waterloo_cs885	cs885-lecture16a.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture16b.pdf	waterloo_cs885	cs885-lecture16b.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture17a.pdf	waterloo_cs885	cs885-lecture17a.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture17b.pdf	waterloo_cs885	cs885-lecture17b.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture17c.pdf	waterloo_cs885	cs885-lecture17c.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture18a.pdf	waterloo_cs885	cs885-lecture18a.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture18b.pdf	waterloo_cs885	cs885-lecture18b.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture19a.pdf	waterloo_cs885	cs885-lecture19a.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture19b.pdf	waterloo_cs885	cs885-lecture19b.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture19c.pdf	waterloo_cs885	cs885-lecture19c.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture20a.pdf	waterloo_cs885	cs885-lecture20a.pdf
+https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/slides/cs885-lecture20b.pdf	waterloo_cs885	cs885-lecture20b.pdf
+#
+# ---- U Toronto — Introduction to RL (Farahmand, Fall 2025) ----
+https://amfarahmand.github.io/IntroRL/lectures2025/FRL.pdf	toronto_introrl	FRL_course_reader.pdf
+https://amfarahmand.github.io/IntroRL/lectures2025/lec01.pdf	toronto_introrl	lec01.pdf
+https://amfarahmand.github.io/IntroRL/lectures2025/lec02.pdf	toronto_introrl	lec02.pdf
+https://amfarahmand.github.io/IntroRL/lectures2025/lec03.pdf	toronto_introrl	lec03.pdf
+https://amfarahmand.github.io/IntroRL/lectures2025/lec04.pdf	toronto_introrl	lec04.pdf
+https://amfarahmand.github.io/IntroRL/lectures2025/lec05.pdf	toronto_introrl	lec05.pdf
+https://amfarahmand.github.io/IntroRL/lectures2025/lec06.pdf	toronto_introrl	lec06.pdf
+https://amfarahmand.github.io/IntroRL/lectures2025/lec07.pdf	toronto_introrl	lec07.pdf
+https://amfarahmand.github.io/IntroRL/homework2025/hw1.pdf	toronto_introrl	hw1.pdf
+https://amfarahmand.github.io/IntroRL/homework2025/hw2.pdf	toronto_introrl	hw2.pdf
+https://amfarahmand.github.io/IntroRL/homework2025/hw3.pdf	toronto_introrl	hw3.pdf
+https://amfarahmand.github.io/IntroRL/homework2025/hw4.pdf	toronto_introrl	hw4.pdf
+https://amfarahmand.github.io/IntroRL/homework2025/project.pdf	toronto_introrl	project.pdf
+https://amfarahmand.github.io/IntroRL/tutorials2025/tut-prob.pdf	toronto_introrl	tut-prob.pdf
+https://amfarahmand.github.io/IntroRL/tutorials2025/tut-linalg.pdf	toronto_introrl	tut-linalg.pdf
+https://amfarahmand.github.io/IntroRL/tutorials2025/tut-optim.pdf	toronto_introrl	tut-optim.pdf
+#
+# ---- UBC — CPSC 533V Learning to Move / RL (van de Panne, 2024W1) ----
+https://www.cs.ubc.ca/~van/cpsc533V/533V-Sep-4.pdf	ubc_cpsc533v	533V-intro-Sep4.pdf
+https://www.cs.ubc.ca/~van/cpsc533V/notes-Sept-4-to-16.pdf	ubc_cpsc533v	notes-Sept-4-to-16.pdf
+https://www.cs.ubc.ca/~van/cpsc533V/notes-Sept-18-v2.pdf	ubc_cpsc533v	notes-Sept-18.pdf
+https://www.cs.ubc.ca/~van/cpsc533V/robot-state.pdf	ubc_cpsc533v	robot-state.pdf
+https://www.cs.ubc.ca/~van/cpsc533V/notes-DQN-DDPG-TD3-PGintro.pdf	ubc_cpsc533v	notes-DQN-DDPG-TD3-PGintro.pdf
+https://www.cs.ubc.ca/~van/cpsc533V/notes-PG-basic.pdf	ubc_cpsc533v	notes-PG-basic.pdf
+https://www.cs.ubc.ca/~van/cpsc533V/notes-all-to-MPC.pdf	ubc_cpsc533v	notes-all-to-MPC.pdf
+https://www.cs.ubc.ca/~van/cpsc533V/notes-RL-tricks.pdf	ubc_cpsc533v	notes-RL-tricks.pdf
+https://www.cs.ubc.ca/~van/cpsc533V/RL-humanoids+robots.pdf	ubc_cpsc533v	RL-humanoids-robots.pdf
+#
+# ---- UMass Amherst — CMPSCI 687 RL (Thomas / da Silva, Fall 2024 consolidated notes) ----
+https://people.cs.umass.edu/~bsilva/courses/CMPSCI_687/Fall2024/Lecture_Notes_v1.0_687_F24.pdf	umass_cmpsci687	Lecture_Notes_687_F24.pdf
+https://people.cs.umass.edu/~bsilva/courses/CMPSCI_687/Fall2024/F24_687_Syllabus_v2.pdf	umass_cmpsci687	Syllabus_687_F24.pdf
+#
+# ==================== UK / EUROPE ====================
+# ---- UCL — David Silver Reinforcement Learning (classic 10-lecture series) ----
+https://davidstarsilver.wordpress.com/wp-content/uploads/2025/04/intro_rl.pdf	ucl_david_silver	01_intro_to_rl.pdf
+https://davidstarsilver.wordpress.com/wp-content/uploads/2025/04/lecture-2-mdp.pdf	ucl_david_silver	02_mdp.pdf
+https://davidstarsilver.wordpress.com/wp-content/uploads/2025/04/lecture-3-planning-by-dynamic-programming-.pdf	ucl_david_silver	03_planning_by_dp.pdf
+https://davidstarsilver.wordpress.com/wp-content/uploads/2025/04/lecture-4-model-free-prediction-.pdf	ucl_david_silver	04_model_free_prediction.pdf
+https://davidstarsilver.wordpress.com/wp-content/uploads/2025/04/lecture-5-model-free-control-.pdf	ucl_david_silver	05_model_free_control.pdf
+https://davidstarsilver.wordpress.com/wp-content/uploads/2025/04/lecture-6-value-function-approximation-.pdf	ucl_david_silver	06_value_function_approximation.pdf
+https://davidstarsilver.wordpress.com/wp-content/uploads/2025/04/lecture-7-policy-gradient-methods.pdf	ucl_david_silver	07_policy_gradient.pdf
+https://davidstarsilver.wordpress.com/wp-content/uploads/2025/04/lecture-8-integrating-learning-and-planning.pdf	ucl_david_silver	08_integrating_learning_and_planning.pdf
+https://davidstarsilver.wordpress.com/wp-content/uploads/2025/04/lecture-9-exploration-and-exploitation.pdf	ucl_david_silver	09_exploration_and_exploitation.pdf
+https://davidstarsilver.wordpress.com/wp-content/uploads/2025/04/lecture-10-case-study-rl-in-classic-games.pdf	ucl_david_silver	10_classic_games.pdf
+https://davidstarsilver.wordpress.com/wp-content/uploads/2025/04/easy21-assignment.pdf	ucl_david_silver	easy21_assignment.pdf
+https://davidstarsilver.wordpress.com/wp-content/uploads/2025/04/previous-rl-exam-questions-.pdf	ucl_david_silver	exam_questions.pdf
+https://davidstarsilver.wordpress.com/wp-content/uploads/2025/04/previous-rl-exam-answers.pdf	ucl_david_silver	exam_answers.pdf
+#
+# ---- Edinburgh — INFR11010 Reinforcement Learning (Stefano Albrecht, 2025) ----
+https://opencourse.inf.ed.ac.uk/sites/default/files/https/opencourse.inf.ed.ac.uk/rl/2025/rl1introduction25_1.pdf	edinburgh_rl	01_introduction.pdf
+https://opencourse.inf.ed.ac.uk/sites/default/files/https/opencourse.inf.ed.ac.uk/rl/2025/rl2multiarmedbandits25_0.pdf	edinburgh_rl	02_multiarmed_bandits.pdf
+https://opencourse.inf.ed.ac.uk/sites/default/files/https/opencourse.inf.ed.ac.uk/rl/2025/rl3mdps25_2.pdf	edinburgh_rl	03_mdps.pdf
+https://opencourse.inf.ed.ac.uk/sites/default/files/https/opencourse.inf.ed.ac.uk/rl/2025/rl3bmdpsdp25.pdf	edinburgh_rl	03b_mdps_dp.pdf
+https://opencourse.inf.ed.ac.uk/sites/default/files/https/opencourse.inf.ed.ac.uk/rl/2025/rl5montecarlomethods_0.pdf	edinburgh_rl	05_monte_carlo.pdf
+https://opencourse.inf.ed.ac.uk/sites/default/files/https/opencourse.inf.ed.ac.uk/rl/2025/rl6temporaldifferencelearning_0.pdf	edinburgh_rl	06_td_learning.pdf
+https://opencourse.inf.ed.ac.uk/sites/default/files/https/opencourse.inf.ed.ac.uk/rl/2025/rl7planningboth_1.pdf	edinburgh_rl	07_planning.pdf
+https://opencourse.inf.ed.ac.uk/sites/default/files/https/opencourse.inf.ed.ac.uk/rl/2025/rl9valuefunctionapproximation_0.pdf	edinburgh_rl	09_value_function_approximation.pdf
+https://opencourse.inf.ed.ac.uk/sites/default/files/https/opencourse.inf.ed.ac.uk/rl/2025/rl10pgs_0.pdf	edinburgh_rl	10_policy_gradients.pdf
+https://opencourse.inf.ed.ac.uk/sites/default/files/https/opencourse.inf.ed.ac.uk/rl/2025/rl11deeprl_0.pdf	edinburgh_rl	11_deep_rl.pdf
+https://opencourse.inf.ed.ac.uk/sites/default/files/https/opencourse.inf.ed.ac.uk/rl/2025/rl12reward.pdf	edinburgh_rl	12_reward.pdf
+https://opencourse.inf.ed.ac.uk/sites/default/files/https/opencourse.inf.ed.ac.uk/rl/2025/rl13beyondmarkov_1.pdf	edinburgh_rl	13_beyond_markov.pdf
+https://opencourse.inf.ed.ac.uk/sites/default/files/https/opencourse.inf.ed.ac.uk/rl/2025/marlintro2025_0.pdf	edinburgh_rl	14_marl_intro.pdf
+https://opencourse.inf.ed.ac.uk/sites/default/files/https/opencourse.inf.ed.ac.uk/rl/2025/buildingacompleterlsystemlectureslides2025_0.pdf	edinburgh_rl	15_building_complete_rl_system.pdf
+https://opencourse.inf.ed.ac.uk/sites/default/files/https/opencourse.inf.ed.ac.uk/rl/2025/courseworkintroductionlectureslides2025_1.pdf	edinburgh_rl	16_coursework_intro.pdf
+#
+# ---- DeepMind x UCL — RL Lecture Series 2021 (confirmed subset; rest resolved separately) ----
+https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%201%20-%20introduction.pdf	deepmind_ucl_2021	L01_introduction.pdf
+https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%203%20-%20MDPs%20and%20Dynamic%20Programming.pdf	deepmind_ucl_2021	L03_mdps_and_dynamic_programming.pdf
+https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%206%20-%20Model-free%20control.pdf	deepmind_ucl_2021	L06_model_free_control.pdf
+https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%2013%20-%20Deep%20RL%202.pdf	deepmind_ucl_2021	L13_deep_rl_2.pdf
+#
+# ==================== US (UPenn) ====================
+# ---- UPenn — ESE 6500 Learning in Robotics (Pratik Chaudhari, Spring 2025 consolidated notes) ----
+https://pratikac.github.io/pub/25_ese650.pdf	upenn_ese6500	ESE6500_LearningInRobotics_notes_S25.pdf
+#
+# ==================== ASIA ====================
+# ---- NUS — CS6101 Deep RL reading group (2018/19 Sem II, self-hosted weekly slides) ----
+https://www.comp.nus.edu.sg/~kanmy/courses/6101_1820/w03.pdf	nus_cs6101	w03.pdf
+https://www.comp.nus.edu.sg/~kanmy/courses/6101_1820/w04.pdf	nus_cs6101	w04.pdf
+https://www.comp.nus.edu.sg/~kanmy/courses/6101_1820/w05.pdf	nus_cs6101	w05.pdf
+https://www.comp.nus.edu.sg/~kanmy/courses/6101_1820/w06.pdf	nus_cs6101	w06.pdf
+https://www.comp.nus.edu.sg/~kanmy/courses/6101_1820/w07.pdf	nus_cs6101	w07.pdf
+https://www.comp.nus.edu.sg/~kanmy/courses/6101_1820/w08.pdf	nus_cs6101	w08.pdf
+https://www.comp.nus.edu.sg/~kanmy/courses/6101_1820/w09.pdf	nus_cs6101	w09.pdf
+https://www.comp.nus.edu.sg/~kanmy/courses/6101_1820/w_recess.pdf	nus_cs6101	w_recess.pdf
+https://www.comp.nus.edu.sg/~kanmy/courses/6101_1820/s12.pdf	nus_cs6101	s12.pdf
+https://www.comp.nus.edu.sg/~kanmy/courses/6101_1820/s13.pdf	nus_cs6101	s13.pdf
+#
+# ---- CUHK — IERG5350 Reinforcement Learning (Bolei Zhou; preserved in zhoubolei/introRL) ----
+https://raw.githubusercontent.com/zhoubolei/introRL/master/lecture1.pdf	cuhk_ierg5350	lecture01.pdf
+https://raw.githubusercontent.com/zhoubolei/introRL/master/lecture2.pdf	cuhk_ierg5350	lecture02.pdf
+https://raw.githubusercontent.com/zhoubolei/introRL/master/lecture3.pdf	cuhk_ierg5350	lecture03.pdf
+https://raw.githubusercontent.com/zhoubolei/introRL/master/lecture4.pdf	cuhk_ierg5350	lecture04.pdf
+https://raw.githubusercontent.com/zhoubolei/introRL/master/lecture5.pdf	cuhk_ierg5350	lecture05.pdf
+https://raw.githubusercontent.com/zhoubolei/introRL/master/lecture6.pdf	cuhk_ierg5350	lecture06.pdf
+https://raw.githubusercontent.com/zhoubolei/introRL/master/lecture7.pdf	cuhk_ierg5350	lecture07.pdf
+https://raw.githubusercontent.com/zhoubolei/introRL/master/lecture8.pdf	cuhk_ierg5350	lecture08.pdf
+https://raw.githubusercontent.com/zhoubolei/introRL/master/lecture9.pdf	cuhk_ierg5350	lecture09.pdf
+https://raw.githubusercontent.com/zhoubolei/introRL/master/lecture10.pdf	cuhk_ierg5350	lecture10.pdf
+https://raw.githubusercontent.com/zhoubolei/introRL/master/lecture_alphastar.pdf	cuhk_ierg5350	lecture_alphastar.pdf

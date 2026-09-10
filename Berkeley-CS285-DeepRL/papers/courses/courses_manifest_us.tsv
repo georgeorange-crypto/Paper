@@ -1,0 +1,251 @@
+# courses_manifest_us.tsv  —  URL <TAB> subdir <TAB> filename
+# BATCH 3: US universities (author/official course sites, all HEAD-verified 200)
+#   UCSD CSE190, UW-Madison CS839, Harvard Stat184 + CS2824, Caltech CS159,
+#   MIT 6.7920 (partial), UIUC CS443 + CS542, UT Austin CS394R, UW CSE542 + CSE579
+# (CMU 10-703 = Dropbox/GoogleDrive-only, signed hosts blackholed here -> link-only in README)
+#
+# ---- UCSD — CSE 190 Deep RL / LLM Agents (Prithviraj Ammanabrolu, Spring 2026) ----
+https://pearls-lab.github.io/deep-rl-course-SP26/assets/lectures/intro.pdf	ucsd_cse190	01_intro.pdf
+https://pearls-lab.github.io/deep-rl-course-SP26/assets/lectures/what_is_an_agent.pdf	ucsd_cse190	02_what_is_an_agent.pdf
+https://pearls-lab.github.io/deep-rl-course-SP26/assets/lectures/simulations_and_reality.pdf	ucsd_cse190	03_simulations_and_reality.pdf
+https://pearls-lab.github.io/deep-rl-course-SP26/assets/lectures/how_to_make_a_simulation.pdf	ucsd_cse190	04_how_to_make_a_simulation.pdf
+https://pearls-lab.github.io/deep-rl-course-SP26/assets/lectures/search_for_planning_in_simulations.pdf	ucsd_cse190	05_search_for_planning.pdf
+https://pearls-lab.github.io/deep-rl-course-SP26/assets/lectures/classical_control_pre_deep_learning.pdf	ucsd_cse190	06_classical_control.pdf
+https://pearls-lab.github.io/deep-rl-course-SP26/assets/lectures/deep_rl_pre_llms.pdf	ucsd_cse190	07_deep_rl_pre_llms.pdf
+https://pearls-lab.github.io/deep-rl-course-SP26/assets/lectures/rl_search_combined.pdf	ucsd_cse190	08_rl_search_combined.pdf
+https://pearls-lab.github.io/deep-rl-course-SP26/assets/lectures/attention_and_language_modeling.pdf	ucsd_cse190	09_attention_and_language_modeling.pdf
+https://pearls-lab.github.io/deep-rl-course-SP26/assets/lectures/rl_for_language_agents_pt1.pdf	ucsd_cse190	10_rl_for_language_agents_pt1.pdf
+https://pearls-lab.github.io/deep-rl-course-SP26/assets/lectures/rl_for_language_pt2.pdf	ucsd_cse190	11_rl_for_language_pt2.pdf
+https://pearls-lab.github.io/deep-rl-course-SP26/assets/lectures/prompt_optimization.pdf	ucsd_cse190	12_prompt_optimization.pdf
+https://pearls-lab.github.io/deep-rl-course-SP26/assets/lectures/neurosymbolic_tool_use.pdf	ucsd_cse190	13_neurosymbolic_tool_use.pdf
+https://pearls-lab.github.io/deep-rl-course-SP26/assets/lectures/inf_scaling.pdf	ucsd_cse190	14_inference_scaling.pdf
+https://pearls-lab.github.io/deep-rl-course-SP26/assets/lectures/multi_agent.pdf	ucsd_cse190	15_multi_agent.pdf
+https://pearls-lab.github.io/deep-rl-course-SP26/assets/lectures/agent_safety.pdf	ucsd_cse190	16_agent_safety.pdf
+#
+# ---- UW-Madison — CS839 Advanced Deep RL (Josiah Hanna, Fall 2025) ----
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/25-fall-839-syllabus.pdf	wisconsin_cs839	00_syllabus.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec1-course-intro.pdf	wisconsin_cs839	lec01-course-intro.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec2-bandits.pdf	wisconsin_cs839	lec02-bandits.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec3-mdps.pdf	wisconsin_cs839	lec03-mdps.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec4-dp.pdf	wisconsin_cs839	lec04-dp.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec4-dynamic-programming.pdf	wisconsin_cs839	lec04b-dynamic-programming.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec5-dp-II.pdf	wisconsin_cs839	lec05-dp-II.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec5-dynamic-programming-II.pdf	wisconsin_cs839	lec05b-dynamic-programming-II.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec6-monte-carlo-I.pdf	wisconsin_cs839	lec06-monte-carlo-I.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec7-monte-carlo-II.pdf	wisconsin_cs839	lec07-monte-carlo-II.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec8-td-I.pdf	wisconsin_cs839	lec08-td-I.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec9-td-II.pdf	wisconsin_cs839	lec09-td-II.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec10-models-I.pdf	wisconsin_cs839	lec10-models-I.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec11-models-II.pdf	wisconsin_cs839	lec11-models-II.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec12-on-policy-fa.pdf	wisconsin_cs839	lec12-on-policy-fa.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec12-fa-I.pdf	wisconsin_cs839	lec12b-fa-I.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec13-off-policy-fa.pdf	wisconsin_cs839	lec13-off-policy-fa.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec13-fa-II.pdf	wisconsin_cs839	lec13b-fa-II.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec14-drl-I.pdf	wisconsin_cs839	lec14-drl-I.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec14-fa-III.pdf	wisconsin_cs839	lec14b-fa-III.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec15-drl-II.pdf	wisconsin_cs839	lec15-drl-II.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec15-fa-IV.pdf	wisconsin_cs839	lec15b-fa-IV.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec16-pg-I.pdf	wisconsin_cs839	lec16-pg-I.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec16-drl-I.pdf	wisconsin_cs839	lec16b-drl-I.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec17-pg-II.pdf	wisconsin_cs839	lec17-pg-II.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec17-drl-II.pdf	wisconsin_cs839	lec17b-drl-II.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec18-pg-I.pdf	wisconsin_cs839	lec18-pg-I.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec18-hrl-I.pdf	wisconsin_cs839	lec18b-hrl-I.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec19-pg-II.pdf	wisconsin_cs839	lec19-pg-II.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec19-marl-I.pdf	wisconsin_cs839	lec19b-marl-I.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec20-hrl-I.pdf	wisconsin_cs839	lec20-hrl-I.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec20-marl-II.pdf	wisconsin_cs839	lec20b-marl-II.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec21-hrl-II.pdf	wisconsin_cs839	lec21-hrl-II.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec21-humans.pdf	wisconsin_cs839	lec21b-humans.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec22-eval.pdf	wisconsin_cs839	lec22-eval.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec22-RL4LLMs.pdf	wisconsin_cs839	lec22b-RL4LLMs.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec23-eval.pdf	wisconsin_cs839	lec23-eval.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec23-marl-I.pdf	wisconsin_cs839	lec23b-marl-I.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec24-marl-II.pdf	wisconsin_cs839	lec24-marl-II.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec24-offline-I.pdf	wisconsin_cs839	lec24b-offline-I.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec25-offline-I.pdf	wisconsin_cs839	lec25-offline-I.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec26-offline-II.pdf	wisconsin_cs839	lec26-offline-II.pdf
+https://pages.cs.wisc.edu/~jphanna/teaching/25fall_cs839/documents/lec27-real-world.pdf	wisconsin_cs839	lec27-real-world.pdf
+#
+# ---- Harvard — Stat 184 / CS1840 Intro to RL (Sham Kakade, Fall 2023); prelecture + annotated pairs ----
+https://shamulent.github.io/RL_2023/Lectures/mdp1_intro_prelecture.pdf	harvard_stat184	mdp1_intro_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/mdp1_intro_annotated.pdf	harvard_stat184	mdp1_intro_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/mdp2_prelecture.pdf	harvard_stat184	mdp2_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/mdp2_annotated.pdf	harvard_stat184	mdp2_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/mdp3_prelecture.pdf	harvard_stat184	mdp3_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/mdp3_annotated.pdf	harvard_stat184	mdp3_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/mdp4_prelecture.pdf	harvard_stat184	mdp4_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/mdp4_annotated.pdf	harvard_stat184	mdp4_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/Bandits1_prelecture.pdf	harvard_stat184	bandits1_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/bandits1_annotated.pdf	harvard_stat184	bandits1_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/Bandits2_prelecture.pdf	harvard_stat184	bandits2_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/Bandits2_annotated.pdf	harvard_stat184	bandits2_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/Bandits3_prelecture.pdf	harvard_stat184	bandits3_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/bandits3_annotated.pdf	harvard_stat184	bandits3_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/Bandits4_prelecture.pdf	harvard_stat184	bandits4_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/bandits4_annotated.pdf	harvard_stat184	bandits4_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/UCBVI_CB_prelecture.pdf	harvard_stat184	ucbvi_cb_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/ucbvi_cb_annotated.pdf	harvard_stat184	ucbvi_cb_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/CB_RealRL_prelecture.pdf	harvard_stat184	cb_realrl_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/cb_realrl_annotated.pdf	harvard_stat184	cb_realrl_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/Control1_prelecture.pdf	harvard_stat184	control1_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/control1_annotated.pdf	harvard_stat184	control1_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/Control2_prelecture.pdf	harvard_stat184	control2_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/Control2_annotated.pdf	harvard_stat184	control2_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/Learning1_prelecture.pdf	harvard_stat184	learning1_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/learning1_annotated.pdf	harvard_stat184	learning1_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/FittedDP_prelecture.pdf	harvard_stat184	fitteddp_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/fitteddp_annotated.pdf	harvard_stat184	fitteddp_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/MCTS_prelecture.pdf	harvard_stat184	mcts_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/MCTS_annotated.pdf	harvard_stat184	mcts_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/MCTS+UCBVI_prelecture.pdf	harvard_stat184	mcts_ucbvi_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/mcts+ucbvi_annotated.pdf	harvard_stat184	mcts_ucbvi_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/IL_prelecture.pdf	harvard_stat184	il_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/IL_annotated.pdf	harvard_stat184	il_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/PG1_prelecture.pdf	harvard_stat184	pg1_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/PG1_annotated.pdf	harvard_stat184	pg1_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/PG2_prelecture.pdf	harvard_stat184	pg2_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/PG2_annotated.pdf	harvard_stat184	pg2_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/PG3_prelecture.pdf	harvard_stat184	pg3_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/PG3_annotated.pdf	harvard_stat184	pg3_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/PG4_prelecture.pdf	harvard_stat184	pg4_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/PG4_annotated.pdf	harvard_stat184	pg4_annotated.pdf
+https://shamulent.github.io/RL_2023/Lectures/PG5_prelecture.pdf	harvard_stat184	pg5_prelecture.pdf
+https://shamulent.github.io/RL_2023/Lectures/PG5_annotated.pdf	harvard_stat184	pg5_annotated.pdf
+https://shamulent.github.io/RL_2023/Reading/mdps.pdf	harvard_stat184	reading_mdps.pdf
+https://shamulent.github.io/RL_2023/Reading/rltheorybook_AJKS.pdf	harvard_stat184	reading_rltheorybook_AJKS.pdf
+#
+# ---- Harvard — CS2824 Foundations of RL (Sham Kakade / Lucas Janson, Spring 2026) ----
+https://harvard-cs2824-s26.github.io/slides/lecture_1.pdf	harvard_cs2824	lecture_01.pdf
+https://harvard-cs2824-s26.github.io/slides/lecture_2.pdf	harvard_cs2824	lecture_02.pdf
+https://harvard-cs2824-s26.github.io/slides/lecture_3.pdf	harvard_cs2824	lecture_03.pdf
+https://harvard-cs2824-s26.github.io/slides/lecture_4_Sample_Complexity.pdf	harvard_cs2824	lecture_04_sample_complexity.pdf
+https://harvard-cs2824-s26.github.io/slides/lecture_8.pdf	harvard_cs2824	lecture_08.pdf
+https://harvard-cs2824-s26.github.io/slides/lecture_9.pdf	harvard_cs2824	lecture_09.pdf
+https://harvard-cs2824-s26.github.io/slides/lecture_15.pdf	harvard_cs2824	lecture_15.pdf
+https://harvard-cs2824-s26.github.io/slides/lecture_15_continued.pdf	harvard_cs2824	lecture_15_continued.pdf
+https://harvard-cs2824-s26.github.io/slides/linUCB.pdf	harvard_cs2824	linUCB.pdf
+https://harvard-cs2824-s26.github.io/slides/linUCB_lect2.pdf	harvard_cs2824	linUCB_lect2.pdf
+https://harvard-cs2824-s26.github.io/slides/linUCB_GP.pdf	harvard_cs2824	linUCB_GP.pdf
+https://harvard-cs2824-s26.github.io/slides/linear_MDP.pdf	harvard_cs2824	linear_MDP.pdf
+https://harvard-cs2824-s26.github.io/slides/linear_realizability_1.pdf	harvard_cs2824	linear_realizability_1.pdf
+https://harvard-cs2824-s26.github.io/slides/linear_realizability_1_annotated.pdf	harvard_cs2824	linear_realizability_1_annotated.pdf
+https://harvard-cs2824-s26.github.io/slides/linear_realizability_2.pdf	harvard_cs2824	linear_realizability_2.pdf
+https://harvard-cs2824-s26.github.io/slides/linear_realizability_3.pdf	harvard_cs2824	linear_realizability_3.pdf
+https://harvard-cs2824-s26.github.io/slides/bellman_rank.pdf	harvard_cs2824	bellman_rank.pdf
+https://harvard-cs2824-s26.github.io/slides/npg.pdf	harvard_cs2824	npg.pdf
+https://harvard-cs2824-s26.github.io/slides/NPG_ppo.pdf	harvard_cs2824	npg_ppo.pdf
+https://harvard-cs2824-s26.github.io/slides/PG_global_conv1.pdf	harvard_cs2824	pg_global_conv1.pdf
+https://harvard-cs2824-s26.github.io/slides/PG_global_conv2.pdf	harvard_cs2824	pg_global_conv2.pdf
+https://harvard-cs2824-s26.github.io/slides/regressing_rewards.pdf	harvard_cs2824	regressing_rewards.pdf
+https://harvard-cs2824-s26.github.io/slides/RLHF.pdf	harvard_cs2824	rlhf.pdf
+https://harvard-cs2824-s26.github.io/slides/princewill_guest_lecture.pdf	harvard_cs2824	guest_princewill.pdf
+https://harvard-cs2824-s26.github.io/slides/gabriel.pdf	harvard_cs2824	guest_gabriel.pdf
+https://rltheorybook.github.io/rltheorybook_ABJKS.pdf	harvard_cs2824	reading_rltheorybook_ABJKS.pdf
+#
+# ---- Caltech — CS159 Advanced Topics in ML / RL (Yisong Yue et al.) ----
+https://1five9.github.io/slides/intro.pdf	caltech_cs159	00_intro.pdf
+https://1five9.github.io/slides/control/Lecture_1_MDPs.pdf	caltech_cs159	control_1_MDPs.pdf
+https://1five9.github.io/slides/control/Lecture_2_OCPs.pdf	caltech_cs159	control_2_OCPs.pdf
+https://1five9.github.io/slides/control/Lecture_3_MPC.pdf	caltech_cs159	control_3_MPC.pdf
+https://1five9.github.io/slides/control/Lecture_4_MPC_TC.pdf	caltech_cs159	control_4_MPC_TC.pdf
+https://1five9.github.io/slides/control/Lecture_4_SuppMaterial.pdf	caltech_cs159	control_4_supp.pdf
+https://1five9.github.io/slides/control/Lecture_5_MPC_and_Model_Learning.pdf	caltech_cs159	control_5_MPC_model_learning.pdf
+https://1five9.github.io/slides/control/Lecture_6.pdf	caltech_cs159	control_6.pdf
+https://1five9.github.io/slides/learning/07.pdf	caltech_cs159	learning_07.pdf
+https://1five9.github.io/slides/learning/08.pdf	caltech_cs159	learning_08.pdf
+https://1five9.github.io/slides/learning/09.pdf	caltech_cs159	learning_09.pdf
+https://1five9.github.io/slides/learning/10.pdf	caltech_cs159	learning_10.pdf
+https://1five9.github.io/slides/learning/11.pdf	caltech_cs159	learning_11.pdf
+https://1five9.github.io/slides/learning/12.pdf	caltech_cs159	learning_12.pdf
+https://1five9.github.io/slides/guest/bahri.pdf	caltech_cs159	guest_bahri.pdf
+https://1five9.github.io/slides/guest/chung.pdf	caltech_cs159	guest_chung.pdf
+https://1five9.github.io/slides/guest/louis_valle-perez.pdf	caltech_cs159	guest_valle-perez.pdf
+https://1five9.github.io/slides/guest/marino.pdf	caltech_cs159	guest_marino.pdf
+https://1five9.github.io/slides/guest/shi.pdf	caltech_cs159	guest_shi.pdf
+https://1five9.github.io/hw/hw4.pdf	caltech_cs159	hw4.pdf
+#
+# ---- MIT — 6.7920 RL: Foundations and Methods (Fall 2025) — PARTIAL (only L1 public; rest not posted) ----
+https://web.mit.edu/6.7920/www/lectures/L1-2025fa-Introduction.pdf	mit_6_7920	L1-2025fa-Introduction.pdf
+#
+# ---- UIUC — CS443 Deep RL (Nan Jiang, Spring 2023 = fullest slide set; no lec 3/4) ----
+https://nanjiang.cs.illinois.edu/files/cs443s23/1_intro.pdf	uiuc_cs443	01_intro.pdf
+https://nanjiang.cs.illinois.edu/files/cs443s23/2_basic.pdf	uiuc_cs443	02_basic.pdf
+https://nanjiang.cs.illinois.edu/files/cs443s23/5_learning.pdf	uiuc_cs443	05_learning.pdf
+https://nanjiang.cs.illinois.edu/files/cs443s23/6_mc_td.pdf	uiuc_cs443	06_mc_td.pdf
+https://nanjiang.cs.illinois.edu/files/cs443s23/7_td_fa.pdf	uiuc_cs443	07_td_fa.pdf
+https://nanjiang.cs.illinois.edu/files/cs443s23/8_control.pdf	uiuc_cs443	08_control.pdf
+https://nanjiang.cs.illinois.edu/files/cs443s23/9_is.pdf	uiuc_cs443	09_importance_sampling.pdf
+https://nanjiang.cs.illinois.edu/files/cs443s23/10_pg.pdf	uiuc_cs443	10_policy_gradient.pdf
+https://nanjiang.cs.illinois.edu/files/cs443s23/11_abs.pdf	uiuc_cs443	11_state_abstraction.pdf
+https://nanjiang.cs.illinois.edu/files/cs443s23/12_explore.pdf	uiuc_cs443	12_exploration.pdf
+https://nanjiang.cs.illinois.edu/files/cs443s23/13_partial_obs.pdf	uiuc_cs443	13_partial_obs.pdf
+https://nanjiang.cs.illinois.edu/files/cs443s23/14_bayesian_rl.pdf	uiuc_cs443	14_bayesian_rl.pdf
+https://nanjiang.cs.illinois.edu/files/cs443s23/15_imitation.pdf	uiuc_cs443	15_imitation.pdf
+#
+# ---- UIUC — CS542 Statistical RL / RL Theory (Nan Jiang, Fall 2022 typeset notes + slides) ----
+https://nanjiang.cs.illinois.edu/files/cs542f22/note1.pdf	uiuc_cs542	note1.pdf
+https://nanjiang.cs.illinois.edu/files/cs542f22/note2.pdf	uiuc_cs542	note2.pdf
+https://nanjiang.cs.illinois.edu/files/cs542f22/note3.pdf	uiuc_cs542	note3.pdf
+https://nanjiang.cs.illinois.edu/files/cs542f22/note4.pdf	uiuc_cs542	note4.pdf
+https://nanjiang.cs.illinois.edu/files/cs542f22/note5.pdf	uiuc_cs542	note5.pdf
+https://nanjiang.cs.illinois.edu/files/cs542f22/note6.pdf	uiuc_cs542	note6.pdf
+https://nanjiang.cs.illinois.edu/files/cs542f22/note7.pdf	uiuc_cs542	note7.pdf
+https://nanjiang.cs.illinois.edu/files/cs542f22/note8.pdf	uiuc_cs542	note8.pdf
+https://nanjiang.cs.illinois.edu/files/cs542f23/note6.pdf	uiuc_cs542	note6_f23.pdf
+https://nanjiang.cs.illinois.edu/files/cs542f22/slides_fqi.pdf	uiuc_cs542	slides_fqi.pdf
+https://nanjiang.cs.illinois.edu/files/cs542f22/slides_bellman_rank.pdf	uiuc_cs542	slides_bellman_rank.pdf
+https://nanjiang.cs.illinois.edu/files/cs542f22/slides_abs.pdf	uiuc_cs542	slides_abs.pdf
+https://nanjiang.cs.illinois.edu/files/cs542f22/slides_psr.pdf	uiuc_cs542	slides_psr.pdf
+#
+# ---- UT Austin — CS394R RL: Theory and Practice (Peter Stone, Spring 2024); Sutton-Barto chapter slides ----
+https://www.cs.utexas.edu/~pstone/Courses/394Rspring24/resources/RLXlogistics.pdf	utexas_cs394r	00_logistics.pdf
+https://www.cs.utexas.edu/~pstone/Courses/394Rspring24/resources/Ch3Slides.pdf	utexas_cs394r	Ch03_slides.pdf
+https://www.cs.utexas.edu/~pstone/Courses/394Rspring24/resources/Ch4X-Xclean.pdf	utexas_cs394r	Ch04_slides.pdf
+https://www.cs.utexas.edu/~pstone/Courses/394Rspring24/resources/Ch5Slides.pdf	utexas_cs394r	Ch05_slides.pdf
+https://www.cs.utexas.edu/~pstone/Courses/394Rspring24/resources/Ch6-clean.pdf	utexas_cs394r	Ch06_slides.pdf
+https://www.cs.utexas.edu/~pstone/Courses/394Rspring24/resources/Ch7Slides.pdf	utexas_cs394r	Ch07_slides.pdf
+https://www.cs.utexas.edu/~pstone/Courses/394Rspring24/resources/Ch8-clean.pdf	utexas_cs394r	Ch08_slides.pdf
+https://www.cs.utexas.edu/~pstone/Courses/394Rspring24/resources/Ch8-mcts.pdf	utexas_cs394r	Ch08_mcts.pdf
+https://www.cs.utexas.edu/~pstone/Courses/394Rspring24/resources/Ch8-prod.pdf	utexas_cs394r	Ch08_prod.pdf
+https://www.cs.utexas.edu/~pstone/Courses/394Rspring24/resources/Ch9-clean.pdf	utexas_cs394r	Ch09_slides.pdf
+https://www.cs.utexas.edu/~pstone/Courses/394Rspring24/resources/Ch9Slides.pdf	utexas_cs394r	Ch09_slides_alt.pdf
+https://www.cs.utexas.edu/~pstone/Courses/394Rspring24/resources/Ch10Slides.pdf	utexas_cs394r	Ch10_slides.pdf
+https://www.cs.utexas.edu/~pstone/Courses/394Rspring24/resources/Ch11Slides.pdf	utexas_cs394r	Ch11_slides.pdf
+https://www.cs.utexas.edu/~pstone/Courses/394Rspring24/resources/Ch12Slides.pdf	utexas_cs394r	Ch12_slides.pdf
+https://www.cs.utexas.edu/~pstone/Courses/394Rspring24/resources/Ch13Slides-start.pdf	utexas_cs394r	Ch13_slides_start.pdf
+https://www.cs.utexas.edu/~pstone/Courses/394Rspring24/resources/Ch13Slides.pdf	utexas_cs394r	Ch13_slides.pdf
+https://www.cs.utexas.edu/~pstone/Courses/394Rspring24/resources/Lecture19.pdf	utexas_cs394r	Lecture19.pdf
+#
+# ---- UW Seattle — CSE542 Deep RL (Abhishek Gupta, Spring 2024) ----
+https://courses.cs.washington.edu/courses/cse542/24sp/lectures/Lecture1_Intro_Sp24.pdf	uw_cse542	Lecture01_intro.pdf
+https://courses.cs.washington.edu/courses/cse542/24sp/lectures/Lecture2_supervised_updated_Sp24.pdf	uw_cse542	Lecture02_supervised.pdf
+https://courses.cs.washington.edu/courses/cse542/24sp/lectures/Lecture4_PG_new.pdf	uw_cse542	Lecture04_policy_gradient.pdf
+https://courses.cs.washington.edu/courses/cse542/24sp/lectures/Lecture5_PG_advanced.pdf	uw_cse542	Lecture05_pg_advanced.pdf
+https://courses.cs.washington.edu/courses/cse542/24sp/lectures/Lecture6_PG_AC.pdf	uw_cse542	Lecture06_pg_actor_critic.pdf
+https://courses.cs.washington.edu/courses/cse542/24sp/lectures/Lecture7_Actor_Critic.pdf	uw_cse542	Lecture07_actor_critic.pdf
+https://courses.cs.washington.edu/courses/cse542/24sp/lectures/Lecture8_Actor_Critic_Continued.pdf	uw_cse542	Lecture08_actor_critic_cont.pdf
+https://courses.cs.washington.edu/courses/cse542/24sp/lectures/Lecture9_Actor_Critic_ModelBased.pdf	uw_cse542	Lecture09_actor_critic_modelbased.pdf
+https://courses.cs.washington.edu/courses/cse542/24sp/lectures/Lecture10_MBRL.pdf	uw_cse542	Lecture10_mbrl.pdf
+https://courses.cs.washington.edu/courses/cse542/24sp/lectures/Lecture11_MBRL_control_as_inference.pdf	uw_cse542	Lecture11_mbrl_control_as_inference.pdf
+https://courses.cs.washington.edu/courses/cse542/24sp/lectures/Lecture12_control_as_inference_continued.pdf	uw_cse542	Lecture12_control_as_inference.pdf
+https://courses.cs.washington.edu/courses/cse542/24sp/lectures/Lecture12_control_as_inference_IRL.pdf	uw_cse542	Lecture12_control_as_inference_irl.pdf
+https://courses.cs.washington.edu/courses/cse542/24sp/lectures/Lecture13_IRL.pdf	uw_cse542	Lecture13_irl.pdf
+https://courses.cs.washington.edu/courses/cse542/24sp/lectures/Lecture14_metaRL.pdf	uw_cse542	Lecture14_meta_rl.pdf
+#
+# ---- UW Seattle — CSE579 Intelligent Control through Learning & Optimization (Abhishek Gupta, Autumn 2024) ----
+https://courses.cs.washington.edu/courses/cse579/24au/lectures/Lecture1_Intro_Au24.pdf	uw_cse579	Lecture01_intro.pdf
+https://courses.cs.washington.edu/courses/cse579/24au/lectures/Lecture2_Intro_SL.pdf	uw_cse579	Lecture02_intro_sl.pdf
+https://courses.cs.washington.edu/courses/cse579/24au/lectures/Lecture3_SL_finish.pdf	uw_cse579	Lecture03_sl_finish.pdf
+https://courses.cs.washington.edu/courses/cse579/24au/lectures/Lecture4_SL_PG.pdf	uw_cse579	Lecture04_sl_pg.pdf
+https://courses.cs.washington.edu/courses/cse579/24au/lectures/Lecture5_PG2.pdf	uw_cse579	Lecture05_pg2.pdf
+https://courses.cs.washington.edu/courses/cse579/24au/lectures/Lecture6_PGFinish.pdf	uw_cse579	Lecture06_pg_finish.pdf
+https://courses.cs.washington.edu/courses/cse579/24au/lectures/Lecture7_PGAC.pdf	uw_cse579	Lecture07_pg_actor_critic.pdf
+https://courses.cs.washington.edu/courses/cse579/24au/lectures/Lecture8_Actor_Critic.pdf	uw_cse579	Lecture08_actor_critic.pdf
+https://courses.cs.washington.edu/courses/cse579/24au/lectures/Lecture9_Actor_Critic_Pt2.pdf	uw_cse579	Lecture09_actor_critic_pt2.pdf
+https://courses.cs.washington.edu/courses/cse579/24au/lectures/Lecture10_Actor_Critic_Pt3.pdf	uw_cse579	Lecture10_actor_critic_pt3.pdf
+https://courses.cs.washington.edu/courses/cse579/24au/lectures/Lecture11_MBRL.pdf	uw_cse579	Lecture11_mbrl.pdf
+https://courses.cs.washington.edu/courses/cse579/24au/lectures/Lecture12_MBRL_IRL.pdf	uw_cse579	Lecture12_mbrl_irl.pdf
+https://courses.cs.washington.edu/courses/cse579/24au/lectures/Lecture13_IRL_Exploration.pdf	uw_cse579	Lecture13_irl_exploration.pdf
+https://courses.cs.washington.edu/courses/cse579/24au/lectures/Lecture14_IRL_MultiTask.pdf	uw_cse579	Lecture14_irl_multitask.pdf
+https://courses.cs.washington.edu/courses/cse579/24au/lectures/Lecture15_MultiTask_ORL.pdf	uw_cse579	Lecture15_multitask_offline_rl.pdf

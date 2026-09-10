@@ -1,0 +1,108 @@
+# courses_manifest_round2_us.tsv  —  URL <TAB> subdir <TAB> filename
+# ROUND 2 (re-check of previously "login-walled" US courses via 3 channels: prof homepage / course site / GitHub).
+# All URLs HEAD-verified 200 + application/pdf by discovery agent. Downloader re-validates %PDF+EOF.
+#
+# ---- CMU 10-703 Deep RL (Fragkiadaki et al.) — Fall 2019 complete set (F25 slides are Dropbox/Drive-only, blocked). ----
+#      Recovered from course GitHub org repo cmudeeprl/703website_f19 (branch master).
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_1.pdf	cmu_10703	lecture_01.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_2.pdf	cmu_10703	lecture_02.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_3.pdf	cmu_10703	lecture_03.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_4_1.pdf	cmu_10703	lecture_04_1.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_4_2.pdf	cmu_10703	lecture_04_2.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_5.pdf	cmu_10703	lecture_05.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_6.pdf	cmu_10703	lecture_06.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_7_1.pdf	cmu_10703	lecture_07_1.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_7_2.pdf	cmu_10703	lecture_07_2.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_8.pdf	cmu_10703	lecture_08.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_9_1.pdf	cmu_10703	lecture_09_1.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_9_2.pdf	cmu_10703	lecture_09_2.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_10_1.pdf	cmu_10703	lecture_10_1.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_10_2.pdf	cmu_10703	lecture_10_2.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_11.pdf	cmu_10703	lecture_11.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_12_1.pdf	cmu_10703	lecture_12_1.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_12_2.pdf	cmu_10703	lecture_12_2.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_13_1.pdf	cmu_10703	lecture_13_1.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_13_2.pdf	cmu_10703	lecture_13_2.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_14.pdf	cmu_10703	lecture_14.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_15.pdf	cmu_10703	lecture_15.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_16.pdf	cmu_10703	lecture_16.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_17.pdf	cmu_10703	lecture_17.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_18.pdf	cmu_10703	lecture_18.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_19.pdf	cmu_10703	lecture_19.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_20.pdf	cmu_10703	lecture_20.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_21.pdf	cmu_10703	lecture_21.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_22.pdf	cmu_10703	lecture_22.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_23.pdf	cmu_10703	lecture_23.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/lecture_25.pdf	cmu_10703	lecture_25.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/recitation_1.pdf	cmu_10703	recitation_1.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/recitation_2_1.pdf	cmu_10703	recitation_2_1.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/recitation_2_2.pdf	cmu_10703	recitation_2_2.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/recitation_4_1.pdf	cmu_10703	recitation_4_1.pdf
+https://raw.githubusercontent.com/cmudeeprl/703website_f19/master/assets/lectures/recitation_4_2.pdf	cmu_10703	recitation_4_2.pdf
+#
+# ---- Princeton COS435/ECE433 Intro to RL (Benjamin Eysenbach) — Spring 2025 lectures + precepts. ----
+#      Recovered from ben-eysenbach/intro-rl (branch main, s25_material/).
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/lecture-1-what-is-rl.pdf	princeton_cos435	lecture_01_what-is-rl.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/lecture-2-mdp.pdf	princeton_cos435	lecture_02_mdp.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/lecture-3-bandits.pdf	princeton_cos435	lecture_03_bandits.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/lecture-4-cem-mpc.pdf	princeton_cos435	lecture_04_cem-mpc.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/lecture-5-imitation.pdf	princeton_cos435	lecture_05_imitation.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/lecture-6-policy-gradient.pdf	princeton_cos435	lecture_06_policy-gradient.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/lecture-7-value-functions.pdf	princeton_cos435	lecture_07_value-functions.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/lecture-8-policy-value-iteration.pdf	princeton_cos435	lecture_08_policy-value-iteration.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/lecture-9-learning-value-functions.pdf	princeton_cos435	lecture_09_learning-value-functions.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/lecture-10-q-learning.pdf	princeton_cos435	lecture_10_q-learning.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/lecture-11-dqn.pdf	princeton_cos435	lecture_11_dqn.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/lecture-12-ppo.pdf	princeton_cos435	lecture_12_ppo.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/lecture-13-ppo.pdf	princeton_cos435	lecture_13_ppo.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/lecture-14-ddpg.pdf	princeton_cos435	lecture_14_ddpg.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/lecture-15-td3.pdf	princeton_cos435	lecture_15_td3.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/lecture-16-stochastic-actors.pdf	princeton_cos435	lecture_16_stochastic-actors.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/lecture-17-maxent-rl.pdf	princeton_cos435	lecture_17_maxent-rl.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/lecture-18-exploration.pdf	princeton_cos435	lecture_18_exploration.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/lecture-19-exploration.pdf	princeton_cos435	lecture_19_exploration.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/lecture-21-multi-agent.pdf	princeton_cos435	lecture_21_multi-agent.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/precept-1-notes.pdf	princeton_cos435	precept_1_notes.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/precept-2-notes.pdf	princeton_cos435	precept_2_notes.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/precept-3-notes.pdf	princeton_cos435	precept_3_notes.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/precept-4-notes.pdf	princeton_cos435	precept_4_notes.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/precept-5-notes.pdf	princeton_cos435	precept_5_notes.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/precept-8-notes.pdf	princeton_cos435	precept_8_notes.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/precept-9-notes.pdf	princeton_cos435	precept_9_notes.pdf
+https://raw.githubusercontent.com/ben-eysenbach/intro-rl/main/s25_material/final_project.pdf	princeton_cos435	final_project.pdf
+#
+# ---- NYU RL & Optimal Control for Robotics (Ludovic Righetti, Fall 2024). ----
+#      Recovered from jhakrraman/Reinforcement-learning-and-optimal-control-for-Robotics-NYU-Fall-2024 (branch master).
+https://raw.githubusercontent.com/jhakrraman/Reinforcement-learning-and-optimal-control-for-Robotics-NYU-Fall-2024/master/Class%20Material/lecture1%20-%20introduction.pdf	nyu_rl_robotics	lecture_01_introduction.pdf
+https://raw.githubusercontent.com/jhakrraman/Reinforcement-learning-and-optimal-control-for-Robotics-NYU-Fall-2024/master/Class%20Material/lecture2%20-%20fundamentals%20of%20optimization.pdf	nyu_rl_robotics	lecture_02_optimization.pdf
+https://raw.githubusercontent.com/jhakrraman/Reinforcement-learning-and-optimal-control-for-Robotics-NYU-Fall-2024/master/Class%20Material/lecture3%20-%20QP%20problems.pdf	nyu_rl_robotics	lecture_03_qp-problems.pdf
+https://raw.githubusercontent.com/jhakrraman/Reinforcement-learning-and-optimal-control-for-Robotics-NYU-Fall-2024/master/Class%20Material/lecture4%20-%20Nonlinear_Optimal_Control.pdf	nyu_rl_robotics	lecture_04_nonlinear-optimal-control.pdf
+https://raw.githubusercontent.com/jhakrraman/Reinforcement-learning-and-optimal-control-for-Robotics-NYU-Fall-2024/master/Class%20Material/lecture5%20-%20MPC.pdf	nyu_rl_robotics	lecture_05_mpc.pdf
+https://raw.githubusercontent.com/jhakrraman/Reinforcement-learning-and-optimal-control-for-Robotics-NYU-Fall-2024/master/Class%20Material/lecture6%20-%20sampling%20based%20OC.pdf	nyu_rl_robotics	lecture_06_sampling-based-oc.pdf
+https://raw.githubusercontent.com/jhakrraman/Reinforcement-learning-and-optimal-control-for-Robotics-NYU-Fall-2024/master/Class%20Material/lecture7%20-Bellman%20principle.pdf	nyu_rl_robotics	lecture_07_bellman-principle.pdf
+https://raw.githubusercontent.com/jhakrraman/Reinforcement-learning-and-optimal-control-for-Robotics-NYU-Fall-2024/master/Class%20Material/lecture8%20-VI-PI.pdf	nyu_rl_robotics	lecture_08_vi-pi.pdf
+https://raw.githubusercontent.com/jhakrraman/Reinforcement-learning-and-optimal-control-for-Robotics-NYU-Fall-2024/master/Class%20Material/lecture9%20-Q%20learning.pdf	nyu_rl_robotics	lecture_09_q-learning.pdf
+https://raw.githubusercontent.com/jhakrraman/Reinforcement-learning-and-optimal-control-for-Robotics-NYU-Fall-2024/master/Class%20Material/lecture10%20-deep%20Q%20learning.pdf	nyu_rl_robotics	lecture_10_deep-q-learning.pdf
+https://raw.githubusercontent.com/jhakrraman/Reinforcement-learning-and-optimal-control-for-Robotics-NYU-Fall-2024/master/Class%20Material/lecture11%20-policy%20gradient%20and%20actor%20critic.pdf	nyu_rl_robotics	lecture_11_policy-gradient-actor-critic.pdf
+https://raw.githubusercontent.com/jhakrraman/Reinforcement-learning-and-optimal-control-for-Robotics-NYU-Fall-2024/master/Class%20Material/lecture12%20-learning%20by%20demonstration.pdf	nyu_rl_robotics	lecture_12_learning-by-demonstration.pdf
+https://raw.githubusercontent.com/jhakrraman/Reinforcement-learning-and-optimal-control-for-Robotics-NYU-Fall-2024/master/Class%20Material/lecture13%20-%20playing%20go.pdf	nyu_rl_robotics	lecture_13_playing-go.pdf
+https://raw.githubusercontent.com/jhakrraman/Reinforcement-learning-and-optimal-control-for-Robotics-NYU-Fall-2024/master/Class%20Material/lecture14%20-%20beyond%20the%20class.pdf	nyu_rl_robotics	lecture_14_beyond-the-class.pdf
+#
+# ---- Columbia IEOR 8100 RL (Shipra Agrawal, Spring 2018). ----
+#      Recovered from sa3305/rl (branch master, docs/).
+https://raw.githubusercontent.com/sa3305/rl/master/Reinforcement%20Learning%20course%20syllabus.pdf	columbia_ieor8100	syllabus.pdf
+https://raw.githubusercontent.com/sa3305/rl/master/docs/Intro.pdf	columbia_ieor8100	intro.pdf
+https://raw.githubusercontent.com/sa3305/rl/master/docs/IntroSpring2019.pdf	columbia_ieor8100	intro_spring2019.pdf
+https://raw.githubusercontent.com/sa3305/rl/master/docs/Lecture%201%20-MDP.pdf	columbia_ieor8100	lecture_01_mdp.pdf
+https://raw.githubusercontent.com/sa3305/rl/master/docs/Lecture%202-%20Q%20learning%20tabular.pdf	columbia_ieor8100	lecture_02_q-learning-tabular.pdf
+https://raw.githubusercontent.com/sa3305/rl/master/docs/Lecture%203%20-%20Q-learning%20function%20approximation.pdf	columbia_ieor8100	lecture_03_q-learning-func-approx.pdf
+https://raw.githubusercontent.com/sa3305/rl/master/docs/Lecture%204%20-%20approximate%20DP.pdf	columbia_ieor8100	lecture_04_approximate-dp.pdf
+https://raw.githubusercontent.com/sa3305/rl/master/docs/Lecture%205%20-%20policy%20gradients.pdf	columbia_ieor8100	lecture_05_policy-gradients.pdf
+https://raw.githubusercontent.com/sa3305/rl/master/docs/Lecture%206%20-%20Actor%20Critic.pdf	columbia_ieor8100	lecture_06_actor-critic.pdf
+https://raw.githubusercontent.com/sa3305/rl/master/docs/Lecture%207%20-Approximate%20RL.pdf	columbia_ieor8100	lecture_07_approximate-rl.pdf
+https://raw.githubusercontent.com/sa3305/rl/master/docs/RL%20in%20Robotics.pdf	columbia_ieor8100	rl-in-robotics.pdf
+https://raw.githubusercontent.com/sa3305/rl/master/docs/Slides-ExplorationExploitationTheory-part1.pdf	columbia_ieor8100	exploration-exploitation-theory-part1.pdf
+https://raw.githubusercontent.com/sa3305/rl/master/docs/Slides-ExplorationExploitationTheory.pdf	columbia_ieor8100	exploration-exploitation-theory.pdf
+https://raw.githubusercontent.com/sa3305/rl/master/docs/feb12slides.pdf	columbia_ieor8100	feb12-slides.pdf
+https://raw.githubusercontent.com/sa3305/rl/master/docs/rltutorial.pdf	columbia_ieor8100	rl-tutorial.pdf
+https://raw.githubusercontent.com/sa3305/rl/master/docs/slides_structured_ES_Columbia_talk.pdf	columbia_ieor8100	structured-es-talk.pdf

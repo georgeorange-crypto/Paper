@@ -1,0 +1,38 @@
+# courses_manifest_round2_uswest.tsv  —  URL <TAB> subdir <TAB> filename
+# ROUND 2 (3-channel re-check): US-West + Berkeley Deep RL Bootcamp.
+# All URLs HEAD-verified 200 + %PDF by discovery agent. Provenance flags noted per block.
+#
+# ---- Berkeley Deep RL Bootcamp (Aug 2017) — official LAB HANDOUTS. ----
+#      (The 15 slide decks are genuinely gone: original Google Drive folder is now private/401.
+#       Lab handout PDFs survive in mirror tfolkman/deep_rl_bootcamp; labs 1-2 were notebooks only.)
+https://raw.githubusercontent.com/tfolkman/deep_rl_bootcamp/master/prelab.pdf	berkeley_deeprl_bootcamp	bootcamp_prelab.pdf
+https://raw.githubusercontent.com/tfolkman/deep_rl_bootcamp/master/lab3.pdf	berkeley_deeprl_bootcamp	bootcamp_lab3.pdf
+https://raw.githubusercontent.com/tfolkman/deep_rl_bootcamp/master/lab4.pdf	berkeley_deeprl_bootcamp	bootcamp_lab4.pdf
+https://raw.githubusercontent.com/tfolkman/deep_rl_bootcamp/master/lab5.pdf	berkeley_deeprl_bootcamp	bootcamp_lab5.pdf
+#
+# ---- Bertsekas "RL and Optimal Control" — AUTHOR-DISTRIBUTED official slides + book draft. ----
+#      From ucla-rlcourse/bertsekas (Bolei Zhou's UCLA course org; Bertsekas freely distributes these).
+https://raw.githubusercontent.com/ucla-rlcourse/bertsekas/master/slides/Slides_RL_and_Optimal_Control.pdf	ucla_bertsekas_rloc	bertsekas_rloc_00_overview.pdf
+https://raw.githubusercontent.com/ucla-rlcourse/bertsekas/master/slides/Slides_Lecture1_RLOC.pdf	ucla_bertsekas_rloc	bertsekas_rloc_01.pdf
+https://raw.githubusercontent.com/ucla-rlcourse/bertsekas/master/slides/Slides_Lecture2_RLOC.pdf	ucla_bertsekas_rloc	bertsekas_rloc_02.pdf
+https://raw.githubusercontent.com/ucla-rlcourse/bertsekas/master/slides/Slides_Lecture3_RLOC.pdf	ucla_bertsekas_rloc	bertsekas_rloc_03.pdf
+https://raw.githubusercontent.com/ucla-rlcourse/bertsekas/master/slides/Slides_Lecture4_RLOC.pdf	ucla_bertsekas_rloc	bertsekas_rloc_04.pdf
+https://raw.githubusercontent.com/ucla-rlcourse/bertsekas/master/slides/Slides_Lecture5_RLOC.pdf	ucla_bertsekas_rloc	bertsekas_rloc_05.pdf
+https://raw.githubusercontent.com/ucla-rlcourse/bertsekas/master/slides/Slides_Lecture6_RLOC.pdf	ucla_bertsekas_rloc	bertsekas_rloc_06.pdf
+https://raw.githubusercontent.com/ucla-rlcourse/bertsekas/master/slides/Slides_Lecture7_RLOC.pdf	ucla_bertsekas_rloc	bertsekas_rloc_07.pdf
+https://raw.githubusercontent.com/ucla-rlcourse/bertsekas/master/slides/Slides_Lecture8_RLOC.pdf	ucla_bertsekas_rloc	bertsekas_rloc_08.pdf
+https://raw.githubusercontent.com/ucla-rlcourse/bertsekas/master/slides/Slides_Lecture9_RLOC.pdf	ucla_bertsekas_rloc	bertsekas_rloc_09.pdf
+https://raw.githubusercontent.com/ucla-rlcourse/bertsekas/master/slides/Slides_Lecture10_RLOC.pdf	ucla_bertsekas_rloc	bertsekas_rloc_10.pdf
+https://raw.githubusercontent.com/ucla-rlcourse/bertsekas/master/slides/Slides_Lecture11_RLOC.pdf	ucla_bertsekas_rloc	bertsekas_rloc_11.pdf
+https://raw.githubusercontent.com/ucla-rlcourse/bertsekas/master/slides/Slides_Lecture12_RLOC.pdf	ucla_bertsekas_rloc	bertsekas_rloc_12.pdf
+https://raw.githubusercontent.com/ucla-rlcourse/bertsekas/master/slides/Slides_Lecture13_RLOC.pdf	ucla_bertsekas_rloc	bertsekas_rloc_13.pdf
+https://raw.githubusercontent.com/ucla-rlcourse/bertsekas/master/textbook_draft.pdf	ucla_bertsekas_rloc	bertsekas_rl_and_optimal_control_book_draft.pdf
+#
+# ---- UCLA CS260R (Bolei Zhou, Winter 2026) — STUDENT-AUTHORED lecture notes (NOT official decks). ----
+#      Official slides are Canvas/login-walled; these are student azh05/CS260R's own typed notes (legal, public).
+#      Flagged as student notes in README so they are not mistaken for Bolei Zhou's official slides.
+https://raw.githubusercontent.com/azh05/CS260R/main/week2.pdf	ucla_cs260r_notes	cs260r_w26_week2_notes.pdf
+https://raw.githubusercontent.com/azh05/CS260R/main/week3.pdf	ucla_cs260r_notes	cs260r_w26_week3_notes.pdf
+https://raw.githubusercontent.com/azh05/CS260R/main/week4.pdf	ucla_cs260r_notes	cs260r_w26_week4_notes.pdf
+https://raw.githubusercontent.com/azh05/CS260R/main/week5.pdf	ucla_cs260r_notes	cs260r_w26_week5_notes.pdf
+https://raw.githubusercontent.com/azh05/CS260R/main/week6.pdf	ucla_cs260r_notes	cs260r_w26_week6_notes.pdf

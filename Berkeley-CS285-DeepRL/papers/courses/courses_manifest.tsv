@@ -1,0 +1,58 @@
+# courses_manifest.tsv  —  URL <TAB> subdir <TAB> filename
+# BATCH 1: Stanford CS234 + CS224R (all direct-PDF, verified 200)
+#
+# ---- Stanford CS234 Reinforcement Learning (Winter 2026) ----
+https://web.stanford.edu/class/cs234/slides/lecture1pre.pdf	stanford_cs234	cs234_2026_lec01_pre.pdf
+https://web.stanford.edu/class/cs234/slides/lecture2pre.pdf	stanford_cs234	cs234_2026_lec02_pre.pdf
+https://web.stanford.edu/class/cs234/slides/lecture3pre.pdf	stanford_cs234	cs234_2026_lec03_pre.pdf
+https://web.stanford.edu/class/cs234/slides/lecture4pre.pdf	stanford_cs234	cs234_2026_lec04_pre.pdf
+https://web.stanford.edu/class/cs234/slides/lecture5pre.pdf	stanford_cs234	cs234_2026_lec05_pre.pdf
+https://web.stanford.edu/class/cs234/slides/lecture6pre.pdf	stanford_cs234	cs234_2026_lec06_pre.pdf
+https://web.stanford.edu/class/cs234/slides/lecture7pre.pdf	stanford_cs234	cs234_2026_lec07_pre.pdf
+https://web.stanford.edu/class/cs234/slides/lecture8pre.pdf	stanford_cs234	cs234_2026_lec08_pre.pdf
+https://web.stanford.edu/class/cs234/slides/lecture9pre.pdf	stanford_cs234	cs234_2026_lec09_pre.pdf
+https://web.stanford.edu/class/cs234/slides/lecture11pre.pdf	stanford_cs234	cs234_2026_lec11_pre.pdf
+https://web.stanford.edu/class/cs234/slides/lecture12pre.pdf	stanford_cs234	cs234_2026_lec12_pre.pdf
+https://web.stanford.edu/class/cs234/slides/lecture13pre.pdf	stanford_cs234	cs234_2026_lec13_pre.pdf
+https://web.stanford.edu/class/cs234/slides/lecture14pre.pdf	stanford_cs234	cs234_2026_lec14_pre.pdf
+https://web.stanford.edu/class/cs234/slides/lecture1post.pdf	stanford_cs234	cs234_2026_lec01_post.pdf
+https://web.stanford.edu/class/cs234/slides/lecture2post.pdf	stanford_cs234	cs234_2026_lec02_post.pdf
+https://web.stanford.edu/class/cs234/slides/lecture3post.pdf	stanford_cs234	cs234_2026_lec03_post.pdf
+https://web.stanford.edu/class/cs234/slides/lecture4post.pdf	stanford_cs234	cs234_2026_lec04_post.pdf
+https://web.stanford.edu/class/cs234/slides/lecture5post.pdf	stanford_cs234	cs234_2026_lec05_post.pdf
+https://web.stanford.edu/class/cs234/slides/lecture6post.pdf	stanford_cs234	cs234_2026_lec06_post.pdf
+https://web.stanford.edu/class/cs234/slides/lecture7post.pdf	stanford_cs234	cs234_2026_lec07_post.pdf
+https://web.stanford.edu/class/cs234/slides/lecture8post.pdf	stanford_cs234	cs234_2026_lec08_post.pdf
+https://web.stanford.edu/class/cs234/slides/lecture9post.pdf	stanford_cs234	cs234_2026_lec09_post.pdf
+https://web.stanford.edu/class/cs234/slides/lecture10post.pdf	stanford_cs234	cs234_2026_lec10_post.pdf
+https://web.stanford.edu/class/cs234/slides/lecture11post.pdf	stanford_cs234	cs234_2026_lec11_post.pdf
+https://web.stanford.edu/class/cs234/slides/lecture12post.pdf	stanford_cs234	cs234_2026_lec12_post.pdf
+https://web.stanford.edu/class/cs234/slides/lecture13post.pdf	stanford_cs234	cs234_2026_lec13_post.pdf
+https://web.stanford.edu/class/cs234/slides/lecture14post.pdf	stanford_cs234	cs234_2026_lec14_post.pdf
+https://web.stanford.edu/class/cs234/slides/ethics_society_234_2.pdf	stanford_cs234	cs234_2026_ethics_society.pdf
+https://web.stanford.edu/class/cs234/slides/ShaneGuCS234_2026.pdf	stanford_cs234	cs234_2026_guest_ShaneGu.pdf
+#
+# ---- Stanford CS224R Deep Reinforcement Learning (Spring 2026) ----
+https://cs224r.stanford.edu/slides/01_cs224r_intro_2026.pdf	stanford_cs224r	01_intro.pdf
+https://cs224r.stanford.edu/slides/02_cs224r_imitation_2026.pdf	stanford_cs224r	02_imitation.pdf
+https://cs224r.stanford.edu/slides/03_cs224r_policy_gradients_2026.pdf	stanford_cs224r	03_policy_gradients.pdf
+https://cs224r.stanford.edu/slides/04_cs224r_actor_critic_2026.pdf	stanford_cs224r	04_actor_critic.pdf
+https://cs224r.stanford.edu/slides/05_cs224r_offpolicy_actor_critic_2026.pdf	stanford_cs224r	05_offpolicy_actor_critic.pdf
+https://cs224r.stanford.edu/slides/06_cs224r_qlearning_2026.pdf	stanford_cs224r	06_qlearning.pdf
+https://cs224r.stanford.edu/slides/07_cs224r_offline_rl_2026.pdf	stanford_cs224r	07_offline_rl.pdf
+https://cs224r.stanford.edu/slides/08_cs224r_reward_learning_2026.pdf	stanford_cs224r	08_reward_learning.pdf
+https://cs224r.stanford.edu/slides/09_cs224r_rlhf_2026.pdf	stanford_cs224r	09_rlhf.pdf
+https://cs224r.stanford.edu/slides/10_cs224r_rl_for_llms_reasoning_2026.pdf	stanford_cs224r	10_rl_for_llms_reasoning.pdf
+https://cs224r.stanford.edu/slides/11_cs224r_mbrl_2026.pdf	stanford_cs224r	11_mbrl.pdf
+https://cs224r.stanford.edu/slides/12_cs224r_mtrl_gcrl_2026.pdf	stanford_cs224r	12_mtrl_gcrl.pdf
+https://cs224r.stanford.edu/slides/13_cs224r_metarl_2026.pdf	stanford_cs224r	13_metarl.pdf
+https://cs224r.stanford.edu/slides/15_cs224r_hierarchy_2026.pdf	stanford_cs224r	15_hierarchy.pdf
+https://cs224r.stanford.edu/slides/16_cs224r_sim2real_robot_learning_2026.pdf	stanford_cs224r	16_sim2real_robot_learning.pdf
+https://cs224r.stanford.edu/slides/17_cs224r_rl_vlas_2026.pdf	stanford_cs224r	17_rl_vlas.pdf
+https://cs224r.stanford.edu/slides/18_cs224r_frontiers_how_to_research_2026.pdf	stanford_cs224r	18_frontiers_how_to_research.pdf
+https://cs224r.stanford.edu/material/hw1/CS224R_2026_Homework_1.pdf	stanford_cs224r	hw1.pdf
+https://cs224r.stanford.edu/material/hw2/CS224R_2026_Homework_2.pdf	stanford_cs224r	hw2.pdf
+https://cs224r.stanford.edu/material/hw3/CS224R_2026_Homework_3.pdf	stanford_cs224r	hw3.pdf
+https://cs224r.stanford.edu/material/CS224R_compute_guide.pdf	stanford_cs224r	compute_guide.pdf
+https://cs224r.stanford.edu/material/CS224R_Default_Project_Guidelines.pdf	stanford_cs224r	project_guidelines_default.pdf
+https://cs224r.stanford.edu/material/CS224R_Custom_Project_Guidelines.pdf	stanford_cs224r	project_guidelines_custom.pdf

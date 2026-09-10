@@ -1,0 +1,14 @@
+# courses_manifest_deepmind.tsv  —  URL <TAB> subdir <TAB> filename
+# SUPPLEMENT: complete the DeepMind x UCL 2021 RL Lecture Series (had 4/13, add the other 9).
+# Exact object names recovered from GitHub mirror yjavaherian/deepmind-x-ucl-rl, then each
+# HEAD-verified 200 against the OFFICIAL bucket storage.googleapis.com/deepmind-media/UCL x DeepMind 2021/.
+#
+https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%202-%20Exploration%20and%20control_slides.pdf	deepmind_ucl_2021	L02_exploration_and_control.pdf
+https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%204%20-%20Theoretical%20Fundamentals%20of%20DP%20Algorithms.pdf	deepmind_ucl_2021	L04_theoretical_fundamentals_of_dp.pdf
+https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%205%20-%20ModelFreePrediction.pdf	deepmind_ucl_2021	L05_model_free_prediction.pdf
+https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%207-%20Function%20approximation%20in%20reinforcement%20learning%20.pdf	deepmind_ucl_2021	L07_function_approximation.pdf
+https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%208%20-%20Model%20Based%20Reinforcement%20Learning.pdf	deepmind_ucl_2021	L08_model_based_rl.pdf
+https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%209-%20Policy%20gradients%20and%20actor%20critics.pdf	deepmind_ucl_2021	L09_policy_gradients_and_actor_critics.pdf
+https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%2010-%20Approximate%20Dynamic%20Programming.pdf	deepmind_ucl_2021	L10_approximate_dynamic_programming.pdf
+https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%2011-%20Off-policy%20and%20multi-step.pdf	deepmind_ucl_2021	L11_off_policy_and_multi_step.pdf
+https://storage.googleapis.com/deepmind-media/UCL%20x%20DeepMind%202021/Lecture%2012-%20Deep%20RL%201%20.pdf	deepmind_ucl_2021	L12_deep_rl_1.pdf

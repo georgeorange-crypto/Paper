@@ -1,0 +1,41 @@
+# courses_manifest_round2_canada_asia.tsv  —  URL <TAB> subdir <TAB> filename
+# ROUND 2 (3-channel re-check). All URLs HEAD-verified 200 + application/pdf by discovery agent.
+#
+# ---- McGill COMP-579 Reinforcement Learning (Doina Precup) — Winter2024 + Winter2023. ----
+#      Public course site cs.mcgill.ca/~dprecup/courses/rl.html. Slide PDFs are open (recordings are login-walled).
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2024/Lectures/1-intro-2024.pdf	mcgill_comp579	01_intro-2024.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2023/Lectures/1-intro-2020.pdf	mcgill_comp579	02_intro-2020.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2024/Lectures/2-bandits-2024.pdf	mcgill_comp579	03_bandits-2024.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2023/Lectures/2-bandits-2020.pdf	mcgill_comp579	04_bandits-2020.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2023/Lectures/2-bandits-2019.pdf	mcgill_comp579	05_bandits-2019.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2024/Lectures/3-bandits-2019.pdf	mcgill_comp579	06_bandits-regret-2019.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2023/Lectures/5-MDPs-poleval.pdf	mcgill_comp579	07_mdps-policy-eval.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2023/Lectures/6-optimal-dp.pdf	mcgill_comp579	08_optimal-dp.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2023/Lectures/7-MC.pdf	mcgill_comp579	09_monte-carlo.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2023/Lectures/8-TD.pdf	mcgill_comp579	10_temporal-difference.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2023/Lectures/9-multistep.pdf	mcgill_comp579	11_multistep.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2023/Lectures/10-dyna.pdf	mcgill_comp579	12_dyna-planning.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2024/Lectures/10-fa-prediction-2019.pdf	mcgill_comp579	13_fa-prediction-2019.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2023/Lectures/11-onpolicy-prediction-fa.pdf	mcgill_comp579	14_onpolicy-prediction-fa.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2024/Lectures/11-fa-control-2019.pdf	mcgill_comp579	15_fa-control-2019.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2024/Lectures/12-fa-traces-2019.pdf	mcgill_comp579	16_fa-eligibility-traces-2019.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2024/Lectures/pol-grad-2019.pdf	mcgill_comp579	17_policy-gradient-2019.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2024/Lectures/Options2019.pdf	mcgill_comp579	18_options-hrl-2019.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2024/Lectures/mcts.pdf	mcgill_comp579	19_mcts.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2024/Lectures/Exploration-FA-2019.pdf	mcgill_comp579	20_exploration-fa-2019.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2024/Lectures/MetaLearn.pdf	mcgill_comp579	21_meta-learning.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2024/Lectures/rl-hw1-2019.pdf	mcgill_comp579	22_hw1-2019.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2024/Lectures/rl-hw2-2019.pdf	mcgill_comp579	23_hw2-2019.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2024/Lectures/rl-midterm-2018.pdf	mcgill_comp579	24_midterm-2018.pdf
+https://www.cs.mcgill.ca/~dprecup/courses/RL/Winter2023/Lectures/rl-midterm-2019.pdf	mcgill_comp579	25_midterm-2019.pdf
+#
+# ---- NTU Hung-yi Lee — Deep Reinforcement Learning slides (MLDS2018 / MLDS2017 / ML2025). ----
+#      Public course pages speech.ee.ntu.edu.tw. RL-specific decks only.
+https://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/PPO%20(v3).pdf	ntu_hungyi_drl	01_policy-gradient-ppo.pdf
+https://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/QLearning%20(v2).pdf	ntu_hungyi_drl	02_q-learning.pdf
+https://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/AC.pdf	ntu_hungyi_drl	03_actor-critic.pdf
+https://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/Reward%20(v3).pdf	ntu_hungyi_drl	04_sparse-reward.pdf
+https://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2018/Lecture/IRL%20(v2).pdf	ntu_hungyi_drl	05_imitation-irl-2018.pdf
+https://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2017/Lecture/RL%20(v5).pdf	ntu_hungyi_drl	06_deep-rl-overview-2017.pdf
+https://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2017/Lecture/IRL%20(v3).pdf	ntu_hungyi_drl	07_imitation-irl-2017.pdf
+https://speech.ee.ntu.edu.tw/~hylee/ml/ml2025-course-data/policy.pdf	ntu_hungyi_drl	08_policy-gradient-2025.pdf
